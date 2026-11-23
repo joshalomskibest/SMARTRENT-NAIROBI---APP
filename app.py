@@ -1,3 +1,4 @@
+import altair as alt
 import joblib
 import pandas as pd
 import streamlit as st
@@ -15,6 +16,11 @@ def load_artifacts():
 
 
 model, model_columns, distance_lookup = load_artifacts()
+
+
+@st.cache_data
+def load_importance():
+    return pd.read_csv("feature_importance.csv")
 
 
 # ---------- Options shown to the user ----------
@@ -128,6 +134,26 @@ if st.button("Estimate rent", type="primary"):
             )
         else:
             st.info("The asking rent is close to the estimate for similar apartments.")
+
+# ---------- What drives the estimate ----------
+with st.expander("What drives the estimate?"):
+    importance = load_importance()
+    chart = (
+        alt.Chart(importance)
+        .mark_bar()
+        .encode(
+            x=alt.X("Importance:Q", title="Share of the model's decision", axis=alt.Axis(format="%")),
+            y=alt.Y("Feature:N", sort="-x", title=None),
+            tooltip=["Feature", alt.Tooltip("Importance:Q", format=".1%")],
+        )
+    )
+    st.altair_chart(chart)
+    st.caption(
+        "This shows how much the model relied on each factor when it learned from 1,790 listings. "
+        "It does not show whether a factor raises or lowers the rent. "
+        "Amenities, distance to the city centre and security level matter most."
+    )
+
 
 st.divider()
 st.caption(

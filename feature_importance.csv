@@ -1,0 +1,9 @@
+Feature,Importance
+Amenity count,0.3528
+Distance to CBD,0.2059
+Security level,0.1808
+Neighborhood,0.0754
+Building age,0.0715
+Bathrooms,0.0605
+Size (sq m),0.0376
+Bedrooms,0.0156
