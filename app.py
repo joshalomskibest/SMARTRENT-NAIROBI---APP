@@ -23,6 +23,11 @@ def load_importance():
     return pd.read_csv("feature_importance.csv")
 
 
+@st.cache_data
+def load_neighborhood_stats():
+    return pd.read_csv("neighborhood_stats.csv")
+
+
 # ---------- Options shown to the user ----------
 AMENITIES = [
     "Gym",
@@ -134,6 +139,63 @@ if st.button("Estimate rent", type="primary"):
             )
         else:
             st.info("The asking rent is close to the estimate for similar apartments.")
+
+# ---------- Compare neighborhoods ----------
+LOW_DATA_THRESHOLD = 20  # areas with fewer listings than this get a caution note
+
+with st.expander("Compare neighborhoods"):
+    stats = load_neighborhood_stats()
+    available = [n for n in neighborhood_options if n in set(stats["Neighborhood"])]
+
+    chosen = st.multiselect(
+        "Pick two or three neighborhoods to compare",
+        available,
+        default=[neighborhood] if neighborhood in available else [],
+        max_selections=3,
+        format_func=neighborhood_label,
+    )
+
+    if len(chosen) < 2:
+        st.info("Pick at least two neighborhoods to see the comparison.")
+    else:
+        picked = stats[stats["Neighborhood"].isin(chosen)].copy()
+        picked["Area"] = picked["Neighborhood"].map(neighborhood_label)
+
+        rent_chart = (
+            alt.Chart(picked)
+            .mark_bar()
+            .encode(
+                x=alt.X("Median_Rent:Q", title="Typical monthly rent (KSh)", axis=alt.Axis(format=",.0f")),
+                y=alt.Y("Area:N", sort="-x", title=None),
+                tooltip=[
+                    alt.Tooltip("Area:N"),
+                    alt.Tooltip("Median_Rent:Q", title="Typical rent (KSh)", format=",.0f"),
+                    alt.Tooltip("Listings:Q", title="Listings"),
+                ],
+            )
+        )
+        st.altair_chart(rent_chart)
+
+        table = pd.DataFrame({
+            "Neighborhood": picked["Area"],
+            "Typical rent (KSh)": picked["Median_Rent"].map(lambda v: f"{v:,.0f}"),
+            "Typical bedrooms": picked["Median_Bedrooms"].map(lambda v: f"{v:g}"),
+            "Distance to centre (km)": picked["Median_Distance_km"].map(lambda v: f"{v:.1f}"),
+            "Listings": picked["Listings"],
+        }).sort_values("Listings", ascending=False)
+        st.dataframe(table, hide_index=True)
+
+        thin = picked.loc[picked["Listings"] < LOW_DATA_THRESHOLD, "Area"].tolist()
+        if thin:
+            st.warning(
+                "Fewer than " + str(LOW_DATA_THRESHOLD) + " listings for: " + ", ".join(thin)
+                + ". Treat their figures with extra caution."
+            )
+
+        st.caption(
+            "Typical means the median across all apartment sizes in that area, so areas with larger "
+            "apartments look more expensive. The \"Other\" group mixes many smaller areas."
+        )
 
 # ---------- What drives the estimate ----------
 with st.expander("What drives the estimate?"):
