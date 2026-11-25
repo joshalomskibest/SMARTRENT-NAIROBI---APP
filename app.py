@@ -1,4 +1,5 @@
 import json
+from datetime import date
 
 import altair as alt
 import joblib
@@ -7,6 +8,7 @@ import streamlit as st
 
 from about import render_about
 from market import render_market_report
+from pdf_report import build_pdf
 
 st.set_page_config(page_title="SmartRent Nairobi", layout="centered")
 
@@ -38,6 +40,29 @@ def load_error_profile():
     # Cross-validated error of the final model: {"mae": ..., "median_ape": ..., "p75_ape": ...}
     with open("model_error.json") as f:
         return json.load(f)
+
+
+@st.cache_data
+def load_market_rows():
+    return pd.read_csv("market_data.csv")
+
+
+def market_snapshot(neighborhood, bedrooms):
+    """Figures for the PDF: this area, same-bedroom apartments, and the whole market."""
+    out = {}
+    stats = load_neighborhood_stats()
+    match = stats[stats["Neighborhood"] == neighborhood]
+    if len(match):
+        out["area"] = {"rent": float(match["Median_Rent"].iloc[0]),
+                       "listings": int(match["Listings"].iloc[0])}
+    market = load_market_rows()
+    out["market"] = {"rent": float(market["Price_Ksh"].median()), "listings": int(len(market))}
+    same = market[market["Bedrooms"] == bedrooms]
+    if len(same) >= 20:
+        label = "studios" if bedrooms == 0 else f"{bedrooms} bedroom" + ("" if bedrooms == 1 else "s")
+        out["same_bedrooms"] = {"label": label, "rent": float(same["Price_Ksh"].median()),
+                                "listings": int(len(same))}
+    return out
 
 
 # ---------- Options shown to the user ----------
@@ -169,7 +194,24 @@ with tab_estimate:
             distance, neighborhood, SECURITY_OPTIONS[security_label],
         )
         predicted = float(model.predict(row)[0])
+        # Keep the result so the page (and the PDF button) survive the rerun a download triggers
+        st.session_state["result"] = {
+            "predicted": predicted,
+            "asking": float(asking_rent),
+            "neighborhood": neighborhood,
+            "security": security_label,
+            "bedrooms": int(bedrooms),
+            "bathrooms": int(bathrooms),
+            "size": int(sq_mtrs),
+            "age": int(age),
+            "amenities": list(amenities),
+            "distance": distance,
+        }
 
+    result = st.session_state.get("result")
+    if result:
+        predicted = result["predicted"]
+        asking_rent = result["asking"]
         low = predicted * (1 - FAIR_BAND)
         high = predicted * (1 + FAIR_BAND)
 
@@ -180,25 +222,30 @@ with tab_estimate:
             "The range is where about half of real rents fell in testing."
         )
 
+        verdict = None
         if asking_rent > 0 and predicted > 0:
             verdict, strength, difference = judge_price(asking_rent, predicted)
             size = f"{abs(difference):.0%}"
 
             if verdict == "fair":
-                st.info(f"Fair price. The asking rent is within the likely range ({difference:+.0%} from the estimate).")
+                verdict_title = "Fair price"
+                verdict_text = f"The asking rent is within the likely range ({difference:+.0%} from the estimate)."
+                st.info(f"{verdict_title}. {verdict_text}")
             elif verdict == "good":
-                title = "Clearly a good deal" if strength else "Good deal"
-                st.success(
-                    f"{title}. The asking rent is {size} below the estimate. "
+                verdict_title = "Clearly a good deal" if strength else "Good deal"
+                verdict_text = (
+                    f"The asking rent is {size} below the estimate. "
                     "Check why it is lower: the model cannot see the condition of the building "
                     "or features outside the form."
                 )
+                st.success(f"{verdict_title}. {verdict_text}")
             else:
-                title = "Clearly overpriced" if strength else "Overpriced"
-                st.warning(
-                    f"{title}. The asking rent is {size} above the estimate. "
+                verdict_title = "Clearly overpriced" if strength else "Overpriced"
+                verdict_text = (
+                    f"The asking rent is {size} above the estimate. "
                     "It may be worth negotiating, or asking what extra the landlord is offering."
                 )
+                st.warning(f"{verdict_title}. {verdict_text}")
 
             # Where the asking rent sits compared with the estimate and its likely range
             axis_min = min(low, asking_rent) * 0.85
@@ -223,6 +270,38 @@ with tab_estimate:
             )
             st.altair_chart((band + estimate_line + asking_line).properties(height=90))
             st.caption("Blue line: estimate. Shaded band: likely range. Red line: the asking rent.")
+
+        st.caption(
+            "This result is for the details you had when you pressed Estimate rent. "
+            "Change them and press the button again to update it."
+        )
+
+        # ---------- PDF summary ----------
+        try:
+            report = {
+                "date": date.today().strftime("%d %B %Y"),
+                "predicted": predicted, "low": low, "high": high,
+                "typical_error": TYPICAL_ERROR,
+                "asking": asking_rent if verdict else 0,
+                "verdict": verdict,
+                "neighborhood": neighborhood_label(result["neighborhood"]),
+                "security": result["security"],
+                "bedrooms": result["bedrooms"], "bathrooms": result["bathrooms"],
+                "size": result["size"], "age": result["age"],
+                "amenities": result["amenities"], "distance": result["distance"],
+                **market_snapshot(result["neighborhood"], result["bedrooms"]),
+            }
+            if verdict:
+                report["verdict_title"] = verdict_title
+                report["verdict_text"] = verdict_text
+            st.download_button(
+                "Download PDF summary",
+                data=build_pdf(report),
+                file_name="smartrent_estimate.pdf",
+                mime="application/pdf",
+            )
+        except Exception as error:
+            st.warning(f"The PDF summary could not be created ({type(error).__name__}).")
 
     # ---------- Compare neighborhoods ----------
     LOW_DATA_THRESHOLD = 20  # areas with fewer listings than this get a caution note
