@@ -1,0 +1,1791 @@
+Price_Ksh,Bedrooms,Bathrooms,Building_Age_Years,Amenity_Count,Security_Level,Distance_to_CBD_km,Neighborhood_final
+155500,4.0,4.0,12,6,Guard,7.4,General Mathenge
+96500,3.0,4.0,16,3,Gated+Guard+CCTV,8.9,Kilimani
+69000,3.0,5.0,13,3,Unknown,6.5,Lavington
+128000,3.0,4.0,9,1,Gated+Guard+CCTV,10.6,Kilimani
+38000,3.0,3.0,18,0,Unknown,13.6,Imara Daima
+164500,2.0,2.0,6,6,Gated+Guard+CCTV,7.8,Waiyaki Way
+92000,2.0,3.0,7,2,Guard,10.7,Kilimani
+103000,3.0,3.0,9,3,Gated+Guard+CCTV,6.6,Westlands Area
+65500,4.0,4.0,13,2,Gated+Guard,37.7,Thika Road
+61500,2.0,2.0,15,2,Gated+Guard+CCTV,9.6,Kilimani
+87000,2.0,2.0,16,2,Guard,5.7,Rhapta Road
+62500,3.0,3.0,24,3,Gated+Guard,14.2,Thindigua
+56000,3.0,2.0,19,1,Unknown,4.6,Kileleshwa
+78000,1.0,1.0,9,0,Unknown,3.1,Riverside
+247500,3.0,3.0,4,6,Gated+Guard,3.2,Riverside
+118500,3.0,3.0,6,2,Guard,4.7,Parklands
+48500,0.0,1.0,8,0,Gated+Guard+CCTV,7.0,Waiyaki Way
+77500,2.0,2.0,11,2,Unknown,6.2,Lavington
+12000,0.0,1.0,13,2,Guard,6.6,Waiyaki Way
+10500,2.0,1.0,12,2,Guard,17.6,Ruaka
+11500,0.0,1.0,8,2,Guard,14.6,Ruaka
+12000,2.0,1.0,7,0,Guard,12.4,Ruaka
+10500,2.0,1.0,25,0,Unknown,14.0,Ruaka
+14500,1.0,1.0,7,1,Gated+Guard,8.1,Other
+13500,0.0,1.0,5,0,Guard,11.2,Kiambu Road
+15000,2.0,1.0,3,3,Gated+Guard+CCTV,14.6,Other
+12000,2.0,2.0,17,0,Unknown,13.9,Ruaka
+12500,1.0,1.0,17,1,Unknown,14.5,Other
+14500,2.0,1.0,7,2,Unknown,8.4,Other
+12000,1.0,1.0,5,1,Unknown,28.1,Other
+13000,1.0,1.0,12,2,Unknown,15.0,Ruaka
+94000,3.0,3.0,7,1,Gated+Guard,7.9,Kilimani
+205000,3.0,3.0,13,6,Gated+Guard,7.7,General Mathenge
+13000,1.0,1.0,16,1,Guard,12.8,Other
+14000,1.0,1.0,11,1,Gated+Guard,15.4,Ruaka
+13000,1.0,1.0,9,0,Guard,21.4,Other
+12000,1.0,1.0,32,1,Unknown,19.3,Other
+13500,2.0,2.0,13,1,Unknown,15.4,Ruaka
+13500,2.0,2.0,18,2,Guard,16.3,Ruaka
+12500,2.0,2.0,7,0,Unknown,23.5,Other
+14500,1.0,1.0,14,1,Guard,13.8,Imara Daima
+16000,2.0,2.0,3,3,Unknown,14.5,Ruaka
+13000,1.0,1.0,29,2,Guard,18.3,Other
+19000,1.0,1.0,2,1,Unknown,6.8,Other
+18500,1.0,1.0,2,1,Unknown,9.4,Other
+17500,2.0,2.0,8,0,Guard,11.8,Other
+63500,2.0,2.0,5,0,Guard,9.4,Kilimani
+72000,2.0,2.0,2,3,Unknown,8.6,Kilimani
+15000,1.0,1.0,20,1,Unknown,13.8,Ruaka
+14000,2.0,2.0,13,1,Unknown,23.6,Other
+16000,1.0,1.0,10,0,Guard,16.9,Ruaka
+17500,2.0,2.0,6,1,Guard,13.5,Ruaka
+16500,1.0,1.0,10,1,Guard,15.6,Ruaka
+14000,2.0,2.0,25,1,Gated+Guard,22.3,Other
+15500,2.0,2.0,23,0,Guard,19.6,Other
+17500,2.0,1.0,22,1,Unknown,9.5,Other
+17500,2.0,1.0,10,3,Unknown,19.7,Other
+278500,3.0,3.0,12,1,Gated+Guard+CCTV,4.4,Riverside
+13000,1.0,1.0,12,0,Guard,23.3,Other
+19000,1.0,1.0,12,1,Guard,14.9,Ruaka
+20000,2.0,2.0,15,2,Guard,15.7,Other
+21500,0.0,1.0,5,0,Unknown,7.4,Other
+17500,3.0,2.0,15,0,Unknown,47.4,Other
+19000,2.0,2.0,21,0,Guard,14.9,Ruaka
+17500,1.0,1.0,23,1,Unknown,17.8,Ruaka
+21000,2.0,2.0,9,0,Unknown,9.6,Imara Daima
+20000,2.0,2.0,10,3,Guard,22.0,Other
+23000,2.0,1.0,6,1,Unknown,6.1,Other
+21500,1.0,1.0,4,0,Guard,15.2,Ruaka
+108000,3.0,3.0,4,4,Gated+Guard,3.4,Kileleshwa
+20000,1.0,1.0,10,0,Unknown,14.6,Ruaka
+17500,1.0,1.0,30,0,Guard,15.6,Ruaka
+17500,2.0,1.0,15,0,Guard,25.9,Other
+23000,1.0,1.0,7,0,Guard,11.3,Other
+25000,1.0,1.0,11,3,Guard,9.0,Other
+23500,2.0,2.0,7,1,Unknown,14.1,Ruaka
+19500,2.0,2.0,13,0,Unknown,31.1,Syokimau
+21500,2.0,2.0,14,2,Unknown,18.7,Other
+22500,2.0,2.0,12,2,Unknown,15.9,Ruaka
+20000,2.0,2.0,33,0,Guard,12.1,Other
+22000,2.0,2.0,16,2,Gated+Guard+CCTV,26.9,Syokimau
+206500,5.0,5.0,12,5,Gated+Guard+CCTV,8.6,Kilimani
+25500,2.0,2.0,8,1,Gated+Guard,12.4,Ruaka
+26000,2.0,1.0,4,0,Guard,13.4,Kiambu Road
+21000,2.0,2.0,14,1,Unknown,40.0,Other
+26000,1.0,1.0,10,1,Unknown,9.7,Karen
+28500,0.0,1.0,6,1,Unknown,3.7,Kileleshwa
+22000,2.0,2.0,29,1,Guard,14.2,Ruaka
+21500,2.0,2.0,26,1,Unknown,14.4,Ruaka
+27000,1.0,1.0,14,0,Guard,4.5,Parklands
+27000,1.0,1.0,4,0,Unknown,7.4,Ngong Road
+26000,2.0,2.0,15,1,Unknown,6.1,Other
+24500,1.0,1.0,7,1,Unknown,15.5,Ruaka
+21000,3.0,2.0,22,1,Unknown,27.7,Syokimau
+187000,2.0,2.0,4,4,Gated+Guard,4.6,Other
+149500,3.0,5.0,10,2,Gated+Guard+CCTV,4.0,Riverside
+22500,2.0,2.0,28,2,Unknown,12.1,Other
+24500,2.0,2.0,7,2,Unknown,18.1,Imara Daima
+23500,2.0,2.0,13,2,Gated+Guard,23.5,Other
+22500,2.0,2.0,31,0,Unknown,15.5,Ruaka
+30500,1.0,1.0,9,0,Gated+Guard,6.0,Ngong Road
+27000,2.0,2.0,24,1,Gated+Guard+CCTV,12.9,Ruaka
+23000,3.0,2.0,16,1,Unknown,31.8,Syokimau
+23000,3.0,2.0,12,0,Unknown,25.1,Other
+30500,0.0,1.0,8,1,Guard,13.4,Ruaka
+24500,2.0,3.0,21,2,Guard,36.2,Other
+32500,0.0,1.0,8,1,Guard,6.7,Other
+33000,1.0,1.0,10,1,Guard,4.8,Kileleshwa
+27000,1.0,1.0,14,1,Unknown,16.4,Kiambu Road
+137000,2.0,2.0,6,2,Gated+Guard+CCTV,4.0,Kileleshwa
+29000,1.0,1.0,24,3,Guard,12.1,Kiambu Road
+25500,2.0,2.0,31,1,Guard,14.2,Imara Daima
+33500,3.0,2.0,8,3,Gated+Guard,11.3,Syokimau
+28500,2.0,2.0,16,0,Guard,11.4,Imara Daima
+30000,2.0,2.0,14,0,Unknown,6.0,Other
+27000,2.0,2.0,16,0,Unknown,13.1,Ruaka
+25000,2.0,2.0,29,0,Guard,13.7,Other
+31500,2.0,1.0,5,1,Unknown,8.9,Other
+25500,2.0,2.0,24,0,Unknown,12.7,Imara Daima
+31000,0.0,1.0,9,0,Guard,8.7,Kilimani
+24500,3.0,2.0,23,0,Guard,30.7,Syokimau
+26000,3.0,2.0,25,1,Unknown,12.8,Other
+27500,3.0,3.0,5,0,Gated+Guard,28.8,Syokimau
+83000,3.0,3.0,18,2,Gated+Guard,6.9,Lavington
+101500,3.0,3.0,9,4,Gated+Guard,7.3,Kilimani
+26500,2.0,1.0,14,0,Unknown,15.3,Ruaka
+24500,2.0,2.0,17,2,Unknown,27.1,Other
+33000,1.0,1.0,2,0,Unknown,5.1,Westlands Area
+31500,2.0,2.0,9,1,Guard,10.1,Other
+25500,3.0,2.0,18,0,Gated+Guard+CCTV,29.8,Syokimau
+25500,2.0,2.0,19,1,Guard,22.8,Other
+29500,2.0,2.0,19,0,Gated+Guard,15.5,Ruaka
+31500,2.0,2.0,7,0,Guard,15.6,Ruaka
+33000,2.0,2.0,10,2,Guard,13.8,Ruaka
+36000,2.0,2.0,8,0,Gated+Guard,6.2,Other
+31000,3.0,2.0,22,2,Guard,12.4,Other
+33500,2.0,2.0,10,1,Gated+Guard,13.7,Ruaka
+31000,3.0,2.0,9,3,Unknown,18.4,Ruaka
+34500,2.0,1.0,21,4,Unknown,4.2,Riverside
+272000,3.0,2.0,1,4,Gated+Guard+CCTV,3.0,Upper Hill
+74500,3.0,3.0,24,2,Guard,4.9,Kileleshwa
+37500,1.0,1.0,13,2,Gated+Guard,3.1,Upper Hill
+29500,2.0,2.0,23,1,Gated+Guard,16.4,Ruaka
+33000,2.0,1.0,7,0,Unknown,11.4,Other
+37000,2.0,2.0,2,2,Guard,13.5,Ruaka
+28500,3.0,2.0,20,3,Unknown,22.3,Other
+34500,1.0,1.0,5,0,Unknown,11.0,Other
+31500,2.0,2.0,20,1,Guard,14.6,Ruaka
+28500,2.0,2.0,21,0,Guard,19.0,Other
+33500,3.0,1.0,12,0,Unknown,8.9,Other
+36000,2.0,2.0,16,3,Guard,8.9,Other
+35500,2.0,2.0,17,3,Gated+Guard,13.5,Thindigua
+34000,2.0,2.0,6,1,Unknown,13.4,Thindigua
+34500,1.0,1.0,9,1,Unknown,9.9,Kilimani
+38500,3.0,1.0,3,0,Guard,5.0,Parklands
+35500,2.0,2.0,8,2,Unknown,10.6,Other
+35500,2.0,2.0,12,1,Gated+Guard+CCTV,14.5,Other
+32000,2.0,2.0,5,4,Unknown,53.1,Thika Road
+36000,2.0,1.0,7,1,Guard,10.8,Other
+38500,3.0,3.0,4,2,Guard,8.1,Other
+29500,2.0,2.0,22,0,Unknown,13.1,Ruaka
+28000,2.0,2.0,28,1,Unknown,15.9,Ruaka
+34000,2.0,2.0,5,0,Guard,14.6,Ruaka
+28500,3.0,2.0,29,1,Guard,16.3,Ruaka
+31000,3.0,2.0,15,1,Unknown,15.9,Ruaka
+30000,2.0,1.0,10,0,Gated+Guard,24.4,Other
+37500,2.0,2.0,3,2,Unknown,8.1,Other
+33500,2.0,2.0,14,2,Unknown,12.3,Ruaka
+37000,1.0,1.0,15,2,Guard,5.7,Lavington
+33500,2.0,2.0,13,1,Unknown,9.9,Karen
+35500,2.0,2.0,5,2,Unknown,12.8,Ruaka
+28000,3.0,2.0,12,1,Unknown,28.6,Syokimau
+33000,3.0,2.0,10,0,Unknown,15.7,Ruaka
+41500,2.0,1.0,6,3,Guard,8.0,Other
+36500,2.0,2.0,10,0,Guard,12.2,Other
+30000,2.0,3.0,22,1,Guard,40.3,Thika Road
+31500,2.0,2.0,27,1,Unknown,12.9,Ruaka
+37500,2.0,2.0,8,0,Unknown,9.4,Other
+31000,2.0,1.0,26,0,Gated+Guard,29.5,Other
+37000,2.0,4.0,11,2,Unknown,13.6,Other
+42000,1.0,1.0,9,0,Gated+Guard,6.8,Ngong Road
+37000,2.0,2.0,9,0,Unknown,12.5,Ruaka
+42000,3.0,2.0,12,1,Gated+Guard,8.0,Other
+32000,2.0,2.0,31,2,Unknown,13.8,Other
+38500,2.0,2.0,11,0,Guard,10.6,Karen
+41500,2.0,2.0,8,1,Unknown,4.8,Kileleshwa
+31500,3.0,3.0,17,0,Unknown,21.9,Ruaka
+37500,2.0,2.0,7,2,Unknown,16.0,Ruaka
+38000,3.0,2.0,18,1,Unknown,6.8,Other
+38500,2.0,2.0,10,0,Unknown,8.9,Other
+37500,3.0,3.0,13,2,Guard,16.2,Other
+31500,3.0,3.0,16,1,Guard,26.9,Syokimau
+32500,3.0,3.0,17,2,Guard,30.6,Syokimau
+38500,3.0,3.0,5,2,Guard,18.8,Other
+36000,2.0,2.0,18,1,Guard,14.6,Thindigua
+36000,2.0,2.0,9,0,Unknown,14.1,Ruaka
+34000,2.0,2.0,23,1,Unknown,12.8,Other
+40000,2.0,2.0,15,0,Gated+Guard,7.8,Other
+42000,1.0,1.0,10,3,Unknown,6.5,Lavington
+37000,3.0,3.0,10,0,Unknown,11.3,Imara Daima
+33000,3.0,4.0,7,0,Guard,26.4,Syokimau
+34500,2.0,2.0,21,2,Unknown,14.7,Kiambu Road
+34000,4.0,4.0,10,0,Gated+Guard,25.5,Other
+39000,3.0,2.0,14,1,Gated+Guard,13.1,Ruaka
+37000,2.0,2.0,10,1,Unknown,13.7,Ruaka
+40500,2.0,1.0,12,0,Guard,5.5,Ngong Road
+44500,1.0,1.0,3,1,Guard,4.6,Kileleshwa
+36500,2.0,2.0,14,0,Unknown,10.1,Other
+40500,1.0,1.0,7,0,Guard,8.3,Kilimani
+43500,2.0,2.0,0,0,Guard,6.3,Parklands
+38500,3.0,3.0,10,1,Unknown,10.8,Karen
+40000,2.0,2.0,3,0,Unknown,9.8,Kiambu Road
+43500,2.0,2.0,6,1,Guard,5.1,Parklands
+41500,3.0,2.0,13,3,Unknown,5.5,Other
+45000,3.0,2.0,3,1,Gated+Guard,6.6,Other
+39500,2.0,2.0,16,3,Unknown,11.8,Kiambu Road
+41000,3.0,2.0,1,0,Guard,14.8,Ruaka
+48000,2.0,2.0,6,3,Gated+Guard,8.5,Other
+44500,2.0,3.0,14,1,Gated+Guard,6.6,Ngong Road
+42500,1.0,1.0,7,0,Unknown,7.7,Kilimani
+43000,2.0,1.0,4,1,Unknown,9.6,Other
+43500,2.0,2.0,8,1,Guard,9.4,Karen
+43000,3.0,2.0,6,1,Unknown,9.2,Other
+35000,3.0,2.0,23,0,Unknown,18.2,Ruaka
+42000,2.0,2.0,15,0,Unknown,6.8,Waiyaki Way
+42000,2.0,2.0,18,0,Unknown,5.0,Kileleshwa
+43500,3.0,2.0,9,0,Unknown,7.5,Other
+37500,3.0,3.0,26,1,Guard,14.6,Kiambu Road
+47000,3.0,1.0,8,1,Guard,6.5,Other
+37000,3.0,2.0,29,3,Unknown,14.1,Other
+45500,1.0,1.0,4,0,Unknown,6.9,Westlands Area
+42500,2.0,2.0,13,1,Unknown,9.2,Karen
+45500,3.0,2.0,9,0,Guard,6.3,Ngong Road
+44500,3.0,2.0,8,0,Unknown,6.6,Ngong Road
+43500,2.0,2.0,12,0,Gated+Guard,11.6,Kiambu Road
+38000,2.0,2.0,19,0,Unknown,12.9,Kiambu Road
+51000,1.0,1.0,1,1,Gated+Guard+CCTV,7.9,Kiambu Road
+42500,3.0,3.0,8,1,Unknown,12.3,Imara Daima
+43500,3.0,2.0,13,0,Guard,7.8,Other
+45000,1.0,1.0,12,1,Unknown,5.1,Rhapta Road
+35000,3.0,3.0,30,2,Unknown,15.5,Kiambu Road
+41500,3.0,3.0,21,1,Gated+Guard,12.4,Thindigua
+46500,2.0,2.0,20,1,Gated+Guard,3.3,Upper Hill
+38000,3.0,2.0,19,1,Unknown,14.2,Imara Daima
+49500,2.0,1.0,7,3,Guard,5.9,Parklands
+51000,1.0,1.0,4,2,Guard,2.9,Upper Hill
+35000,3.0,3.0,21,0,Gated+Guard,26.2,Other
+38500,3.0,3.0,17,0,Unknown,13.0,Kiambu Road
+47500,1.0,1.0,3,1,Guard,7.9,Kilimani
+46000,0.0,1.0,8,1,Guard,8.4,Waiyaki Way
+35500,3.0,3.0,29,1,Unknown,15.4,Ruaka
+47500,2.0,2.0,10,0,Gated+Guard,8.4,Riara Road
+43000,2.0,3.0,13,2,Unknown,13.1,Kiambu Road
+42500,2.0,2.0,13,1,Unknown,12.4,Kiambu Road
+48500,2.0,1.0,6,1,Guard,9.1,Kilimani
+44500,3.0,3.0,11,1,Guard,16.2,Ruaka
+40500,3.0,2.0,12,0,Unknown,17.9,Ruaka
+50000,2.0,2.0,3,0,Unknown,7.7,Other
+49500,2.0,2.0,14,2,Gated+Guard,11.3,Kilimani
+50500,1.0,1.0,8,0,Unknown,3.4,Kileleshwa
+47000,3.0,1.0,16,0,Guard,7.9,Waiyaki Way
+50500,2.0,2.0,17,2,Guard,4.8,Kileleshwa
+50500,1.0,2.0,6,1,Unknown,6.2,Rhapta Road
+48000,3.0,2.0,18,2,Gated+Guard,12.0,Kiambu Road
+44000,3.0,3.0,14,0,Guard,14.6,Thindigua
+43000,2.0,2.0,25,1,Guard,12.2,Other
+50000,3.0,2.0,6,0,Guard,8.4,Other
+44000,2.0,2.0,16,0,Guard,13.6,Kiambu Road
+53000,2.0,1.0,7,0,Gated+Guard,5.5,Ngong Road
+51000,2.0,2.0,5,1,Unknown,6.6,Lavington
+46000,1.0,1.0,12,0,Unknown,9.3,Kilimani
+47000,3.0,2.0,14,2,Unknown,9.9,Other
+44500,3.0,3.0,12,0,Unknown,11.7,Kiambu Road
+52500,2.0,2.0,8,0,Gated+Guard,5.6,Loresho
+47000,1.0,1.0,13,0,Guard,9.8,Kilimani
+47500,3.0,2.0,8,2,Guard,16.1,Ruaka
+47500,2.0,3.0,18,0,Guard,6.0,Loresho
+52000,1.0,2.0,7,1,Gated+Guard,9.1,Kilimani
+50500,2.0,2.0,8,2,Guard,10.4,Kilimani
+54000,3.0,2.0,3,0,Gated+Guard,5.6,Lavington
+52000,3.0,3.0,4,1,Unknown,4.8,Kileleshwa
+54000,1.0,1.0,10,1,Gated+Guard,3.9,Riverside
+52500,2.0,2.0,6,1,Guard,5.8,Loresho
+39500,3.0,2.0,23,0,Unknown,14.7,Other
+43000,3.0,3.0,11,0,Unknown,15.0,Other
+48500,3.0,4.0,3,0,Guard,13.0,Kiambu Road
+45000,3.0,3.0,7,0,Unknown,14.1,Kiambu Road
+50500,2.0,2.0,8,1,Unknown,5.8,Other
+53000,2.0,2.0,9,1,Gated+Guard,6.2,Other
+51000,2.0,2.0,10,1,Gated+Guard,9.1,Kilimani
+50500,2.0,2.0,11,1,Guard,6.4,Other
+52000,2.0,2.0,1,2,Unknown,9.0,Karen
+50500,2.0,2.0,9,1,Guard,7.5,Loresho
+40000,3.0,3.0,29,0,Guard,13.2,Thindigua
+54000,2.0,2.0,10,0,Gated+Guard+CCTV,5.1,Lavington
+42000,2.0,2.0,18,1,Unknown,14.8,Kiambu Road
+51500,1.0,1.0,7,1,Gated+Guard,9.9,Kilimani
+50500,3.0,4.0,15,0,Gated+Guard,4.8,Kileleshwa
+53500,3.0,3.0,15,4,Guard,4.8,Kileleshwa
+50000,2.0,2.0,10,0,Gated+Guard,9.0,Other
+46500,2.0,2.0,22,1,Unknown,4.0,Kileleshwa
+54000,2.0,1.0,2,0,Guard,3.2,Upper Hill
+43000,3.0,3.0,21,2,Unknown,13.4,Other
+45000,3.0,2.0,22,0,Gated+Guard,12.8,Kiambu Road
+51500,3.0,4.0,6,3,Guard,13.5,Thindigua
+49000,4.0,2.0,10,0,Guard,12.5,Other
+57000,3.0,2.0,7,3,Unknown,4.7,Parklands
+54500,2.0,2.0,15,2,Guard,5.4,Rhapta Road
+56500,3.0,3.0,10,0,Gated+Guard,6.2,Loresho
+53000,3.0,2.0,7,1,Unknown,9.3,Other
+53000,1.0,1.0,8,1,Unknown,8.5,Kilimani
+55000,1.0,1.0,0,0,Unknown,8.5,Kilimani
+43500,3.0,2.0,10,1,Unknown,23.6,Other
+57000,2.0,2.0,12,2,Guard,5.0,Lavington
+49500,2.0,1.0,21,0,Guard,7.5,Kilimani
+56500,2.0,2.0,16,1,Gated+Guard,4.1,Kileleshwa
+56000,2.0,2.0,2,0,Guard,8.8,Riara Road
+53500,2.0,2.0,18,3,Unknown,6.2,Lavington
+57500,3.0,2.0,15,2,Gated+Guard,5.3,Kileleshwa
+54500,2.0,2.0,15,1,Guard,5.0,Kileleshwa
+54500,2.0,2.0,9,1,Guard,8.8,Kilimani
+55500,2.0,2.0,8,0,Guard,6.0,Lavington
+58500,1.0,1.0,7,0,Gated+Guard,4.0,Kileleshwa
+57000,2.0,2.0,3,0,Guard,6.0,Loresho
+54000,2.0,2.0,6,1,Unknown,8.7,Kilimani
+59000,2.0,2.0,6,2,Guard,4.7,Kileleshwa
+53500,3.0,2.0,9,0,Unknown,5.4,Loresho
+53500,2.0,2.0,14,2,Unknown,6.4,Westlands Area
+57000,2.0,1.0,9,3,Unknown,5.3,Kileleshwa
+51000,3.0,2.0,4,1,Unknown,14.8,Thindigua
+42500,3.0,3.0,29,1,Unknown,13.6,Ruaka
+47500,2.0,2.0,20,0,Unknown,8.7,Waiyaki Way
+56000,3.0,2.0,15,2,Guard,4.8,Parklands
+54500,3.0,2.0,23,2,Gated+Guard,5.1,Parklands
+60500,2.0,2.0,10,1,Gated+Guard+CCTV,4.5,Kileleshwa
+51000,3.0,2.0,21,2,Unknown,6.1,Lavington
+59500,3.0,3.0,3,1,Guard,4.1,Kileleshwa
+59500,3.0,2.0,8,2,Gated+Guard,6.0,Rhapta Road
+51500,2.0,2.0,6,0,Unknown,10.6,Karen
+54500,3.0,3.0,5,0,Guard,9.4,Waiyaki Way
+57000,3.0,2.0,5,0,Guard,5.0,Kileleshwa
+44000,4.0,4.0,17,0,Unknown,16.4,Kiambu Road
+55000,2.0,1.0,15,2,Gated+Guard,9.1,Karen
+58000,2.0,2.0,11,2,Gated+Guard,6.6,Westlands Area
+50500,3.0,3.0,7,2,Unknown,15.3,Ruaka
+42000,3.0,2.0,22,0,Unknown,42.5,Other
+53500,1.0,1.0,12,1,Unknown,5.4,Rhapta Road
+54000,2.0,2.0,8,0,Unknown,5.4,Ngong Road
+58000,2.0,2.0,6,1,Guard,4.5,Loresho
+56000,2.0,2.0,7,1,Unknown,4.2,Kileleshwa
+59000,2.0,2.0,19,4,Gated+Guard,4.1,Kileleshwa
+52000,2.0,2.0,7,0,Unknown,9.2,Kilimani
+53500,2.0,2.0,9,2,Unknown,9.4,Kilimani
+42500,3.0,2.0,25,1,Unknown,15.9,Kiambu Road
+53000,1.0,1.0,13,0,Guard,6.7,Westlands Area
+57000,2.0,2.0,3,1,Unknown,5.6,Loresho
+58000,3.0,2.0,5,1,Unknown,5.4,Ngong Road
+58000,2.0,2.0,1,0,Unknown,6.4,Westlands Area
+60500,1.0,1.0,12,1,Gated+Guard,7.6,Kilimani
+61500,1.0,1.0,9,1,Gated+Guard+CCTV,11.0,Kilimani
+61500,2.0,2.0,4,1,Unknown,5.1,Kileleshwa
+55000,2.0,1.0,21,3,Unknown,8.5,Kilimani
+61000,2.0,2.0,10,1,Guard,4.8,Lavington
+56500,2.0,2.0,10,1,Unknown,8.9,Kilimani
+62000,3.0,2.0,13,2,Gated+Guard,6.9,Lavington
+61500,2.0,2.0,3,0,Guard,6.5,Waiyaki Way
+63500,3.0,3.0,6,2,Guard,5.6,Loresho
+55000,2.0,2.0,15,0,Guard,9.0,Kilimani
+65500,2.0,2.0,9,1,Gated+Guard+CCTV,4.5,Kileleshwa
+57500,2.0,2.0,10,0,Guard,8.5,Kilimani
+55000,2.0,2.0,9,0,Unknown,9.7,Kilimani
+60000,2.0,2.0,3,1,Unknown,7.8,Kilimani
+59500,2.0,2.0,5,0,Guard,8.8,Other
+61000,1.0,1.0,9,2,Unknown,4.6,Kileleshwa
+62000,3.0,2.0,6,1,Guard,6.4,Rhapta Road
+62000,3.0,3.0,3,0,Gated+Guard,8.7,Waiyaki Way
+57500,2.0,1.0,16,0,Guard,5.2,Westlands Area
+58000,3.0,3.0,22,1,Gated+Guard+CCTV,8.2,Other
+54500,1.0,1.0,15,0,Unknown,6.9,Lavington
+61000,1.0,1.0,17,2,Gated+Guard,6.2,Lavington
+64000,2.0,2.0,6,1,Guard,3.2,Upper Hill
+54500,2.0,2.0,21,1,Unknown,5.9,Parklands
+63500,2.0,2.0,5,1,Guard,4.6,Kileleshwa
+50500,1.0,1.0,20,0,Unknown,10.3,Kilimani
+55000,3.0,2.0,23,0,Guard,4.5,Kileleshwa
+58500,3.0,2.0,13,0,Guard,5.0,Riverside
+49500,2.0,2.0,22,0,Unknown,10.9,Kilimani
+66500,3.0,2.0,11,5,Guard,4.4,Kileleshwa
+59000,3.0,3.0,6,0,Guard,8.9,Waiyaki Way
+53000,1.0,1.0,13,1,Unknown,12.9,Other
+57500,2.0,2.0,11,1,Unknown,7.0,Lavington
+60500,2.0,2.0,3,0,Unknown,5.3,Westlands Area
+58000,2.0,2.0,12,0,Guard,6.5,Lavington
+55000,2.0,3.0,22,1,Gated+Guard,10.1,Kilimani
+66500,2.0,2.0,5,2,Gated+Guard,4.7,Brookside
+55500,2.0,2.0,18,0,Guard,6.8,Kilimani
+54000,2.0,2.0,20,2,Unknown,8.7,Kilimani
+52500,2.0,2.0,21,0,Guard,9.8,Valley Arcade
+57500,2.0,2.0,10,0,Unknown,5.3,Kileleshwa
+52000,2.0,2.0,22,1,Unknown,9.1,Kilimani
+56000,1.0,2.0,14,1,Guard,10.8,Kilimani
+63000,2.0,2.0,5,2,Unknown,3.8,Kileleshwa
+61000,3.0,2.0,9,0,Guard,3.6,Kileleshwa
+63500,2.0,2.0,13,2,Gated+Guard,4.5,Kileleshwa
+62500,3.0,3.0,6,3,Unknown,6.3,Lavington
+56500,3.0,3.0,12,0,Unknown,6.0,Westlands Area
+61500,3.0,2.0,12,0,Gated+Guard,4.5,Ngong Road
+59000,1.0,1.0,5,0,Guard,8.9,Kilimani
+62000,2.0,2.0,11,3,Unknown,3.8,Kileleshwa
+55000,1.0,1.0,15,0,Unknown,6.5,Lavington
+58000,2.0,2.0,10,1,Guard,9.4,Kilimani
+61500,3.0,2.0,1,0,Guard,8.0,Kilimani
+60500,2.0,2.0,1,1,Unknown,8.4,Kilimani
+56500,2.0,2.0,8,0,Unknown,7.9,Kilimani
+59000,3.0,2.0,19,1,Gated+Guard,6.0,Rhapta Road
+62500,2.0,2.0,6,1,Guard,5.0,Kileleshwa
+60500,2.0,2.0,6,0,Guard,6.4,Westlands Area
+64000,2.0,2.0,7,1,Gated+Guard,5.6,Lavington
+56000,2.0,2.0,17,1,Unknown,5.4,Valley Arcade
+58500,2.0,2.0,14,0,Guard,4.4,Kileleshwa
+59500,3.0,3.0,4,1,Unknown,7.9,Other
+54000,3.0,3.0,13,1,Guard,14.0,Thindigua
+66000,2.0,2.0,2,2,Guard,3.9,Kileleshwa
+58000,2.0,2.0,9,1,Unknown,7.4,Loresho
+66500,2.0,2.0,12,4,Gated+Guard,4.5,Kileleshwa
+64000,0.0,1.0,4,1,Gated+Guard,7.3,Other
+56500,2.0,2.0,7,0,Unknown,9.2,Kilimani
+65000,3.0,2.0,8,3,Guard,4.4,Kileleshwa
+56500,3.0,3.0,19,2,Unknown,5.8,Lavington
+46000,3.0,1.0,33,1,Unknown,14.0,Kiambu Road
+64500,3.0,2.0,3,0,Gated+Guard,6.5,Ngong Road
+63000,3.0,3.0,14,4,Unknown,5.6,Westlands Area
+66500,2.0,2.0,8,1,Gated+Guard,4.2,Kileleshwa
+61500,2.0,2.0,8,1,Unknown,5.8,Brookside
+62500,3.0,2.0,14,1,Guard,4.3,Lavington
+60000,3.0,2.0,19,0,Guard,3.7,Kileleshwa
+56500,2.0,2.0,20,1,Unknown,7.0,Lavington
+62500,2.0,2.0,11,1,Unknown,6.0,Parklands
+69000,2.0,2.0,8,1,Gated+Guard,4.4,Kileleshwa
+62500,2.0,2.0,15,0,Guard,4.8,Kileleshwa
+61000,2.0,2.0,6,0,Unknown,9.3,Kilimani
+58500,3.0,3.0,15,1,Guard,12.3,Kilimani
+59500,3.0,2.0,8,0,Unknown,10.2,Kilimani
+55000,3.0,2.0,18,1,Unknown,12.8,Kiambu Road
+64500,3.0,3.0,6,2,Guard,11.5,Kiambu Road
+63500,3.0,2.0,5,2,Unknown,10.5,Kiambu Road
+55000,3.0,2.0,27,1,Gated+Guard,13.3,Kiambu Road
+66000,3.0,2.0,4,1,Guard,8.2,Kilimani
+67500,3.0,2.0,10,2,Gated+Guard,7.5,Kilimani
+68000,3.0,2.0,6,1,Guard,4.2,Kileleshwa
+69500,3.0,2.0,2,1,Gated+Guard,7.8,Kilimani
+68000,3.0,2.0,2,3,Guard,10.8,Kilimani
+61500,3.0,2.0,8,2,Guard,14.4,Other
+66500,3.0,3.0,17,2,Gated+Guard+CCTV,8.0,Waiyaki Way
+64000,2.0,2.0,7,0,Guard,7.1,Lavington
+58000,2.0,2.0,20,2,Unknown,9.1,Valley Arcade
+49500,3.0,3.0,16,1,Guard,35.9,Thika Road
+68000,2.0,2.0,9,1,Gated+Guard,5.3,Kileleshwa
+63500,2.0,2.0,11,2,Guard,9.6,Kilimani
+65000,2.0,2.0,10,2,Guard,7.9,Kilimani
+50000,2.0,3.0,20,2,Guard,23.5,Other
+69500,3.0,2.0,7,0,Gated+Guard+CCTV,5.4,Other
+59500,3.0,2.0,7,0,Unknown,10.8,Kiambu Road
+60000,2.0,2.0,18,0,Guard,6.7,Rhapta Road
+56500,3.0,2.0,20,2,Unknown,11.1,Kilimani
+64500,2.0,3.0,8,0,Guard,6.4,Westlands Area
+59500,3.0,3.0,15,1,Unknown,8.3,Kilimani
+63000,3.0,2.0,9,2,Unknown,8.5,Kilimani
+60000,4.0,4.0,14,2,Guard,13.0,Other
+65000,2.0,2.0,6,1,Unknown,5.4,Other
+52500,3.0,2.0,16,0,Unknown,15.1,Ruaka
+70500,2.0,2.0,5,1,Gated+Guard,4.5,Parklands
+62500,2.0,2.0,7,0,Unknown,6.2,Other
+61000,3.0,3.0,17,0,Guard,6.0,Lavington
+67500,3.0,2.0,6,0,Gated+Guard,5.8,Lavington
+64500,2.0,3.0,3,1,Unknown,8.4,Kilimani
+61500,2.0,2.0,20,1,Guard,4.9,Kileleshwa
+65000,2.0,2.0,10,1,Guard,6.4,Westlands Area
+70000,3.0,3.0,8,2,Gated+Guard,5.3,Westlands Area
+65500,2.0,2.0,16,1,Gated+Guard,4.6,Kileleshwa
+63500,2.0,2.0,16,1,Guard,4.9,Kileleshwa
+66000,3.0,2.0,7,1,Unknown,3.6,Kileleshwa
+64500,3.0,3.0,13,3,Unknown,6.4,Lavington
+61000,2.0,3.0,15,1,Unknown,5.5,Westlands Area
+62000,3.0,2.0,12,1,Unknown,6.4,Rhapta Road
+67500,3.0,3.0,5,1,Guard,5.5,Lavington
+61500,3.0,3.0,17,0,Guard,4.7,Lavington
+66000,2.0,2.0,10,2,Unknown,3.6,Kileleshwa
+66500,1.0,1.0,7,1,Gated+Guard,9.1,Kilimani
+62500,3.0,2.0,8,0,Unknown,6.2,Ngong Road
+65500,3.0,3.0,2,1,Unknown,7.1,Waiyaki Way
+63500,2.0,2.0,4,0,Guard,9.7,Kilimani
+59000,3.0,2.0,14,0,Unknown,7.2,Kilimani
+66500,3.0,2.0,0,0,Unknown,5.0,Parklands
+63000,2.0,1.0,8,0,Unknown,5.1,Lavington
+65000,3.0,2.0,10,2,Unknown,5.5,Ngong Road
+70000,3.0,2.0,3,2,Guard,5.0,Parklands
+65500,2.0,2.0,21,2,Gated+Guard,4.0,Kileleshwa
+61500,2.0,2.0,6,0,Unknown,8.6,Kilimani
+65000,1.0,1.0,7,2,Unknown,6.7,Lavington
+66000,3.0,3.0,7,0,Guard,4.2,Kileleshwa
+66000,3.0,2.0,6,1,Gated+Guard,9.9,Valley Arcade
+65000,4.0,5.0,0,2,Unknown,11.2,Kiambu Road
+53500,4.0,5.0,20,1,Unknown,13.8,Kiambu Road
+60000,2.0,2.0,21,1,Guard,7.0,Westlands Area
+69000,4.0,5.0,6,3,Guard,7.0,Other
+59500,3.0,3.0,12,0,Unknown,8.1,Kilimani
+62500,2.0,2.0,14,2,Guard,9.6,Kilimani
+58500,3.0,3.0,23,4,Unknown,12.7,Kiambu Road
+69000,2.0,2.0,8,1,Guard,4.7,Kileleshwa
+76500,2.0,2.0,7,3,Gated+Guard,6.1,Westlands Area
+59000,3.0,3.0,19,1,Guard,14.7,Thindigua
+66500,2.0,2.0,16,1,Guard,6.8,Westlands Area
+72000,3.0,2.0,5,4,Unknown,9.3,Kilimani
+70500,3.0,2.0,8,1,Gated+Guard,9.4,Other
+66500,3.0,3.0,18,4,Unknown,8.6,Kilimani
+66500,2.0,2.0,15,0,Guard,5.6,Westlands Area
+66500,2.0,2.0,22,3,Unknown,4.3,Kileleshwa
+73000,2.0,2.0,14,3,Gated+Guard,6.3,Lavington
+72000,3.0,2.0,8,3,Guard,8.5,Kilimani
+72000,2.0,2.0,11,2,Guard,4.1,Riverside
+67500,3.0,3.0,12,1,Guard,7.5,Lavington
+70500,3.0,5.0,3,0,Gated+Guard,9.9,Kilimani
+71500,2.0,3.0,10,2,Guard,5.8,Lavington
+71500,3.0,3.0,13,2,Gated+Guard,6.9,Westlands Area
+74000,2.0,2.0,5,2,Gated+Guard,8.6,Kilimani
+76000,3.0,3.0,15,3,Gated+Guard+CCTV,4.5,Westlands Area
+73000,2.0,2.0,11,3,Guard,5.3,Westlands Area
+69000,1.0,1.0,20,1,Gated+Guard+CCTV,7.0,Kilimani
+72500,2.0,3.0,3,2,Unknown,5.7,Lavington
+71500,4.0,3.0,6,1,Guard,6.0,Lavington
+69500,2.0,3.0,11,2,Gated+Guard,10.8,Kilimani
+67000,3.0,2.0,7,0,Guard,9.4,Riara Road
+66500,3.0,4.0,13,1,Guard,8.8,Riara Road
+67500,3.0,3.0,14,1,Guard,6.6,Lavington
+73500,4.0,3.0,4,2,Gated+Guard,9.6,Kiambu Road
+67500,2.0,3.0,10,1,Guard,9.3,Kilimani
+70000,3.0,3.0,10,1,Gated+Guard,8.7,Waiyaki Way
+73000,1.0,1.0,8,2,Gated+Guard,8.2,Karen
+72000,3.0,3.0,19,4,Gated+Guard,6.8,Rhapta Road
+60500,3.0,3.0,16,0,Unknown,9.4,Kilimani
+71000,3.0,3.0,13,1,Gated+Guard+CCTV,8.6,Kilimani
+72500,3.0,2.0,13,4,Guard,6.5,Lavington
+68000,3.0,3.0,9,2,Unknown,7.6,Lavington
+63500,3.0,3.0,19,1,Unknown,6.1,Lavington
+66000,2.0,2.0,13,1,Guard,9.3,Kilimani
+69000,2.0,2.0,14,3,Unknown,5.7,Westlands Area
+63500,3.0,3.0,17,1,Unknown,7.2,Waiyaki Way
+75500,3.0,2.0,6,3,Guard,4.9,Kileleshwa
+72500,3.0,2.0,15,3,Guard,3.6,Riverside
+75500,3.0,2.0,5,2,Gated+Guard,6.1,Lavington
+73000,2.0,2.0,7,2,Gated+Guard,8.5,Kilimani
+79000,3.0,2.0,7,4,Gated+Guard,4.2,Riverside
+64000,3.0,3.0,22,1,Guard,6.2,Lavington
+61500,2.0,2.0,17,1,Unknown,10.1,Kilimani
+72500,3.0,2.0,13,2,Gated+Guard+CCTV,8.4,Kilimani
+63500,3.0,3.0,14,1,Unknown,8.7,Kilimani
+76000,2.0,1.0,11,3,Gated+Guard,4.4,Parklands
+67500,2.0,3.0,20,3,Unknown,3.8,Riverside
+76000,4.0,3.0,10,4,Gated+Guard+CCTV,9.4,Riara Road
+68000,3.0,3.0,8,1,Guard,9.8,Kilimani
+70500,3.0,3.0,5,1,Guard,8.0,Kilimani
+69500,3.0,2.0,15,1,Gated+Guard,6.6,Lavington
+64500,3.0,3.0,14,1,Guard,10.5,Kilimani
+56000,2.0,2.0,12,2,Guard,28.3,Other
+68000,2.0,2.0,2,0,Guard,11.0,Kilimani
+70000,2.0,3.0,16,1,Gated+Guard,5.4,Lavington
+73500,2.0,2.0,1,2,Unknown,5.1,Westlands Area
+72500,2.0,2.0,13,4,Unknown,3.5,Kileleshwa
+62500,2.0,2.0,21,0,Guard,7.1,Lavington
+66000,2.0,2.0,9,0,Unknown,6.5,Westlands Area
+71500,2.0,2.0,6,1,Gated+Guard,8.9,Kilimani
+63500,2.0,2.0,13,1,Unknown,9.3,Kilimani
+72000,3.0,3.0,16,4,Guard,5.2,Lavington
+65000,3.0,2.0,10,2,Unknown,11.6,Kilimani
+66000,3.0,3.0,21,2,Guard,6.1,Lavington
+70000,4.0,4.0,3,2,Unknown,9.1,Kilimani
+75000,2.0,2.0,10,5,Unknown,4.3,Riverside
+70000,3.0,3.0,13,3,Unknown,4.8,Kileleshwa
+73000,2.0,2.0,17,4,Gated+Guard+CCTV,9.2,Kilimani
+71000,2.0,1.0,5,3,Unknown,8.1,Kilimani
+65500,3.0,3.0,15,0,Gated+Guard,9.5,Kilimani
+67000,2.0,2.0,10,3,Unknown,11.0,Kilimani
+69000,3.0,5.0,8,2,Unknown,7.0,Lavington
+76000,2.0,3.0,4,3,Guard,5.4,Kileleshwa
+68000,3.0,2.0,17,3,Guard,8.4,Riara Road
+77000,3.0,2.0,5,1,Gated+Guard+CCTV,5.3,Lavington
+73500,3.0,3.0,7,1,Gated+Guard+CCTV,8.9,Kilimani
+75500,2.0,3.0,7,4,Gated+Guard,9.1,Kilimani
+57500,4.0,3.0,24,0,Gated+Guard,14.7,Kiambu Road
+71000,3.0,3.0,13,2,Guard,4.8,Lavington
+67000,2.0,2.0,15,3,Guard,10.7,Kilimani
+74000,3.0,2.0,6,1,Gated+Guard+CCTV,8.8,Valley Arcade
+67500,3.0,2.0,12,0,Gated+Guard,8.5,Other
+73000,2.0,2.0,11,3,Guard,5.3,Lavington
+65500,3.0,3.0,16,2,Unknown,7.2,Kilimani
+63500,3.0,4.0,18,1,Unknown,6.6,Westlands Area
+81000,3.0,3.0,1,2,Gated+Guard+CCTV,4.5,Kileleshwa
+70500,1.0,1.0,13,1,Guard,3.4,Riverside
+72000,2.0,2.0,3,0,Guard,5.1,Lavington
+69000,4.0,4.0,10,2,Unknown,5.8,Rhapta Road
+71000,3.0,3.0,7,0,Gated+Guard,7.2,Lavington
+72000,3.0,2.0,7,3,Unknown,5.8,Lavington
+75500,3.0,3.0,7,2,Gated+Guard,4.9,Lavington
+72000,2.0,2.0,12,4,Unknown,4.9,Parklands
+71500,2.0,2.0,7,1,Gated+Guard,8.7,Kilimani
+70000,3.0,2.0,14,0,Gated+Guard,4.1,Rhapta Road
+67000,2.0,2.0,8,0,Unknown,6.0,Lavington
+78500,3.0,4.0,3,4,Guard,5.8,Lavington
+67500,3.0,3.0,15,0,Guard,6.5,Westlands Area
+73000,3.0,3.0,7,5,Unknown,11.0,Kilimani
+70500,2.0,2.0,9,0,Gated+Guard,10.2,Kilimani
+72000,2.0,2.0,13,3,Guard,8.7,Kilimani
+74000,3.0,2.0,7,2,Guard,7.8,Kilimani
+74500,3.0,2.0,3,1,Unknown,5.9,Kileleshwa
+73000,3.0,3.0,8,1,Guard,9.1,Riara Road
+72000,2.0,2.0,20,1,Gated+Guard,6.0,Lavington
+72500,2.0,3.0,12,2,Guard,9.0,Kilimani
+81000,3.0,3.0,13,3,Gated+Guard+CCTV,6.1,Rhapta Road
+80000,3.0,3.0,12,2,Gated+Guard+CCTV,5.9,Rhapta Road
+78000,3.0,4.0,5,3,Unknown,5.6,Lavington
+77500,4.0,3.0,8,3,Unknown,4.2,Kileleshwa
+72500,3.0,2.0,14,1,Gated+Guard,9.0,Kilimani
+79000,3.0,2.0,4,2,Guard,5.6,Lavington
+74000,3.0,3.0,6,2,Unknown,8.2,Kilimani
+75500,4.0,4.0,6,2,Guard,9.1,Kilimani
+77500,2.0,2.0,9,4,Guard,8.7,Kilimani
+70000,3.0,2.0,22,1,Gated+Guard,7.1,Lavington
+75500,3.0,3.0,3,0,Unknown,4.1,Rhapta Road
+71500,3.0,3.0,10,1,Unknown,6.8,Rhapta Road
+80000,1.0,1.0,5,2,Gated+Guard+CCTV,10.3,Kilimani
+72000,1.0,1.0,21,0,Gated+Guard,3.4,Kileleshwa
+77500,3.0,2.0,4,1,Guard,5.8,Lavington
+76500,3.0,3.0,8,0,Gated+Guard,5.7,Rhapta Road
+73000,1.0,1.0,14,2,Guard,7.5,Kilimani
+78500,1.0,1.0,13,2,Gated+Guard,4.1,Kileleshwa
+79000,3.0,3.0,8,3,Guard,5.2,Westlands Area
+71000,3.0,3.0,7,0,Unknown,7.3,Westlands Area
+83500,3.0,2.0,8,5,Gated+Guard,6.7,Westlands Area
+84000,3.0,3.0,6,5,Guard,4.6,Riverside
+80500,2.0,2.0,6,1,Gated+Guard+CCTV,6.5,Westlands Area
+80500,1.0,1.0,9,4,Guard,5.2,Other
+82000,2.0,2.0,6,2,Gated+Guard+CCTV,6.6,Other
+81000,2.0,2.0,7,3,Gated+Guard+CCTV,9.5,Kilimani
+74500,1.0,1.0,12,2,Unknown,3.8,Kileleshwa
+71500,3.0,3.0,21,3,Gated+Guard,9.8,Kilimani
+77000,3.0,4.0,11,2,Guard,4.4,Kileleshwa
+85500,3.0,4.0,3,2,Gated+Guard+CCTV,4.3,Kileleshwa
+74500,3.0,3.0,20,2,Gated+Guard,4.7,Kileleshwa
+75500,3.0,4.0,7,0,Guard,4.3,Kileleshwa
+79000,2.0,2.0,4,4,Unknown,6.8,Rhapta Road
+78000,2.0,2.0,11,4,Unknown,3.9,Kileleshwa
+73000,2.0,2.0,12,1,Guard,6.4,Lavington
+76000,2.0,2.0,12,3,Gated+Guard,9.6,Kilimani
+79000,3.0,4.0,6,0,Gated+Guard,3.4,Upper Hill
+78500,3.0,2.0,2,2,Gated+Guard,10.4,Karen
+68000,2.0,3.0,21,0,Guard,5.1,Lavington
+76500,3.0,3.0,6,3,Guard,10.0,Kilimani
+73500,3.0,3.0,13,2,Unknown,4.4,Kileleshwa
+77000,2.0,3.0,13,1,Gated+Guard,4.2,Kileleshwa
+76500,3.0,4.0,11,0,Gated+Guard+CCTV,6.8,Lavington
+76000,2.0,2.0,7,0,Guard,3.7,Riverside
+70500,4.0,1.0,10,4,Unknown,13.7,Other
+72000,1.0,2.0,11,2,Unknown,7.3,Kilimani
+72000,1.0,1.0,17,2,Gated+Guard,9.7,Kilimani
+76000,2.0,2.0,20,3,Gated+Guard,5.1,Westlands Area
+85000,3.0,3.0,4,5,Gated+Guard,7.3,Loresho
+76000,3.0,3.0,5,3,Guard,11.3,Ruaka
+71500,3.0,3.0,20,0,Gated+Guard,4.8,Riverside
+74500,2.0,2.0,14,0,Gated+Guard,4.6,Kileleshwa
+72000,2.0,2.0,18,2,Guard,5.9,Lavington
+76000,2.0,2.0,6,2,Guard,8.4,Kilimani
+73000,3.0,3.0,11,2,Unknown,6.3,Lavington
+76000,3.0,2.0,13,3,Guard,6.0,Westlands Area
+62500,4.0,3.0,18,0,Gated+Guard,17.0,Ruaka
+73500,3.0,2.0,8,0,Guard,6.1,Lavington
+81500,3.0,2.0,2,3,Gated+Guard,9.2,Kilimani
+73500,2.0,2.0,11,2,Guard,8.6,Kilimani
+75000,2.0,2.0,6,3,Unknown,8.9,Kilimani
+76000,2.0,2.0,9,1,Guard,4.7,Kileleshwa
+73500,3.0,2.0,21,3,Guard,4.8,Lavington
+79500,3.0,2.0,8,3,Guard,5.0,Lavington
+66000,2.0,2.0,16,1,Unknown,9.8,Kilimani
+77500,2.0,2.0,5,3,Guard,9.2,Kilimani
+73000,2.0,2.0,13,4,Unknown,8.8,Kilimani
+68000,3.0,3.0,22,2,Unknown,6.0,Rhapta Road
+74500,2.0,2.0,4,1,Guard,9.4,Kilimani
+81500,3.0,4.0,1,4,Guard,8.4,Kilimani
+78000,3.0,4.0,9,1,Gated+Guard+CCTV,8.2,Kilimani
+77000,2.0,2.0,4,1,Guard,6.1,Ngong Road
+76500,3.0,2.0,14,3,Gated+Guard,7.9,Kilimani
+70000,3.0,3.0,19,1,Guard,6.3,Lavington
+81000,2.0,3.0,9,4,Gated+Guard,7.2,Kilimani
+76000,4.0,4.0,6,3,Guard,10.1,Kilimani
+78000,2.0,2.0,9,0,Gated+Guard+CCTV,6.3,Rhapta Road
+74000,2.0,2.0,14,2,Guard,6.2,Lavington
+81000,2.0,2.0,1,3,Gated+Guard,10.1,Kilimani
+74500,3.0,2.0,11,2,Guard,7.2,Rhapta Road
+68000,3.0,3.0,11,1,Unknown,10.1,Kilimani
+80000,3.0,3.0,12,4,Gated+Guard,7.0,Kilimani
+78500,3.0,4.0,6,1,Unknown,3.8,Kileleshwa
+78000,2.0,2.0,13,1,Guard,5.6,Rhapta Road
+78000,3.0,2.0,4,0,Unknown,6.0,Lavington
+84500,2.0,2.0,5,3,Gated+Guard,9.6,Kilimani
+80500,1.0,1.0,17,0,Gated+Guard+CCTV,4.1,Kileleshwa
+80000,1.0,1.0,14,2,Guard,4.6,Kileleshwa
+88000,1.0,1.0,1,1,Gated+Guard,3.6,Riverside
+79000,3.0,3.0,6,1,Guard,8.3,Kilimani
+81500,1.0,1.0,6,2,Guard,7.5,Kilimani
+92000,3.0,2.0,6,4,Gated+Guard+CCTV,5.3,Lavington
+88000,2.0,2.0,6,4,Gated+Guard,6.7,Waiyaki Way
+87000,3.0,3.0,3,3,Gated+Guard,7.9,Riara Road
+85500,3.0,4.0,9,4,Guard,5.1,Kileleshwa
+77500,2.0,1.0,14,1,Guard,5.3,Westlands Area
+73000,2.0,2.0,11,2,Unknown,11.8,Kilimani
+77000,2.0,2.0,13,1,Guard,6.4,Lavington
+84000,2.0,2.0,3,1,Guard,4.6,Kileleshwa
+80000,3.0,2.0,20,4,Gated+Guard,8.1,Kilimani
+80000,2.0,2.0,16,2,Gated+Guard,6.5,Lavington
+75000,3.0,2.0,15,0,Guard,5.6,Lavington
+77000,4.0,4.0,16,3,Unknown,6.1,Westlands Area
+77000,2.0,2.0,19,1,Gated+Guard,5.9,Kileleshwa
+75500,3.0,3.0,10,2,Unknown,8.9,Kilimani
+86500,3.0,4.0,5,2,Gated+Guard,5.1,Kileleshwa
+72000,2.0,2.0,12,0,Unknown,8.2,Kilimani
+78500,2.0,2.0,14,2,Guard,6.0,Lavington
+84500,3.0,2.0,14,5,Gated+Guard+CCTV,10.9,Kilimani
+59500,4.0,4.0,15,2,Unknown,37.0,Thika Road
+82000,3.0,3.0,3,3,Guard,11.0,Kilimani
+75000,2.0,3.0,8,0,Guard,9.8,Kilimani
+83000,2.0,2.0,19,2,Gated+Guard+CCTV,3.7,Riverside
+78000,2.0,3.0,11,1,Gated+Guard,9.7,Kilimani
+79500,3.0,4.0,10,3,Unknown,6.7,Lavington
+77000,3.0,3.0,6,2,Unknown,9.7,Kilimani
+84000,3.0,3.0,8,1,Gated+Guard,4.1,Parklands
+75000,3.0,3.0,18,2,Guard,8.2,Kilimani
+78500,3.0,2.0,12,1,Gated+Guard,8.7,Kilimani
+73000,3.0,3.0,15,2,Unknown,8.9,Kilimani
+83500,2.0,2.0,9,5,Unknown,6.4,Brookside
+81500,3.0,2.0,12,3,Gated+Guard,9.2,Kilimani
+84500,3.0,4.0,6,4,Unknown,5.0,Brookside
+83500,2.0,2.0,13,2,Gated+Guard,4.2,Riverside
+75500,4.0,4.0,9,2,Unknown,9.7,Riara Road
+75000,3.0,3.0,9,0,Unknown,6.4,Westlands Area
+81500,3.0,2.0,12,2,Gated+Guard+CCTV,10.2,Kilimani
+71000,3.0,3.0,19,1,Guard,9.9,Kilimani
+82000,3.0,3.0,3,1,Gated+Guard,9.5,Kilimani
+76500,3.0,4.0,16,2,Unknown,4.5,Kileleshwa
+88500,1.0,1.0,7,3,Gated+Guard,3.6,Kileleshwa
+82000,3.0,3.0,9,1,Gated+Guard,6.3,Brookside
+82000,3.0,5.0,2,2,Guard,9.2,Kilimani
+83000,2.0,2.0,7,1,Gated+Guard,6.2,Lavington
+85000,3.0,3.0,10,2,Gated+Guard,3.8,Kileleshwa
+83500,3.0,3.0,3,1,Guard,5.2,Rhapta Road
+78000,3.0,3.0,9,1,Guard,7.9,Other
+75500,3.0,3.0,19,3,Guard,9.0,Kilimani
+82500,3.0,4.0,4,3,Unknown,6.5,Lavington
+78500,2.0,2.0,14,1,Guard,4.5,Kileleshwa
+78500,3.0,2.0,8,0,Guard,6.0,Rhapta Road
+82500,1.0,2.0,12,3,Guard,4.5,Riverside
+85000,2.0,3.0,6,3,Gated+Guard,8.4,Kilimani
+85000,2.0,2.0,5,3,Guard,6.1,Lavington
+83000,2.0,3.0,5,0,Gated+Guard+CCTV,8.5,Kilimani
+82500,2.0,2.0,3,0,Guard,4.3,Kileleshwa
+62000,4.0,4.0,8,0,Guard,38.5,Thika Road
+85500,1.0,1.0,12,4,Gated+Guard,6.2,Westlands Area
+73000,3.0,2.0,18,1,Guard,8.5,Kilimani
+75500,3.0,2.0,16,3,Guard,10.4,Kilimani
+74000,3.0,4.0,13,0,Unknown,5.4,Lavington
+78000,2.0,2.0,4,0,Guard,8.8,Kilimani
+86000,2.0,3.0,7,4,Guard,5.7,Rhapta Road
+82000,3.0,3.0,7,1,Gated+Guard+CCTV,10.6,Kilimani
+80000,3.0,3.0,6,2,Guard,9.2,Kilimani
+77500,2.0,2.0,14,4,Gated+Guard,14.6,Kiambu Road
+80500,2.0,2.0,10,1,Gated+Guard,7.4,Kilimani
+79500,3.0,3.0,8,0,Guard,4.6,Kileleshwa
+80000,3.0,3.0,7,1,Guard,6.6,Rhapta Road
+82500,3.0,2.0,16,2,Gated+Guard,4.5,Kileleshwa
+81000,3.0,3.0,15,1,Gated+Guard,5.1,Kileleshwa
+81000,3.0,3.0,7,1,Unknown,4.7,Parklands
+75500,2.0,2.0,19,1,Guard,7.0,Westlands Area
+81000,3.0,3.0,7,1,Guard,8.5,Valley Arcade
+76500,3.0,1.0,20,1,Guard,7.1,Westlands Area
+85000,2.0,1.0,17,2,Gated+Guard,5.6,Westlands Area
+85500,1.0,1.0,4,0,Gated+Guard,8.5,Kilimani
+86500,1.0,1.0,8,1,Guard,4.3,Kileleshwa
+83000,1.0,1.0,10,3,Unknown,7.5,Kilimani
+87000,3.0,3.0,10,1,Gated+Guard,5.3,Westlands Area
+95000,3.0,3.0,5,4,Gated+Guard,5.3,Brookside
+82500,3.0,4.0,17,2,Gated+Guard,8.2,Kilimani
+75000,3.0,4.0,13,0,Unknown,9.0,Kilimani
+80000,3.0,4.0,16,4,Unknown,9.3,Kilimani
+78000,2.0,2.0,17,2,Unknown,7.1,Westlands Area
+82000,3.0,3.0,14,1,Guard,5.3,Rhapta Road
+83000,2.0,3.0,9,1,Gated+Guard,10.1,Kilimani
+82500,3.0,2.0,11,2,Unknown,5.8,Lavington
+89000,2.0,2.0,5,1,Gated+Guard,6.0,Other
+83500,3.0,3.0,13,2,Guard,6.5,Lavington
+89500,3.0,3.0,5,2,Gated+Guard,7.8,Kilimani
+87000,2.0,2.0,13,1,Gated+Guard+CCTV,6.3,Brookside
+80500,3.0,3.0,6,1,Unknown,9.2,Kilimani
+96500,2.0,2.0,4,5,Gated+Guard+CCTV,9.5,Kilimani
+80500,2.0,2.0,5,1,Unknown,9.3,Kilimani
+96000,3.0,3.0,1,6,Guard,7.8,Rhapta Road
+90500,2.0,2.0,13,4,Gated+Guard,5.5,Brookside
+90500,2.0,3.0,14,2,Gated+Guard+CCTV,4.2,Kileleshwa
+88000,3.0,3.0,5,1,Guard,4.2,Kileleshwa
+93500,3.0,3.0,4,3,Gated+Guard,5.5,Lavington
+93000,3.0,3.0,2,2,Gated+Guard,5.7,Parklands
+79500,3.0,3.0,5,1,Unknown,10.5,Kilimani
+86000,2.0,2.0,18,4,Gated+Guard,7.5,Waiyaki Way
+82500,2.0,2.0,6,2,Guard,11.7,Kiambu Road
+85000,4.0,4.0,7,1,Guard,6.3,Westlands Area
+91000,1.0,1.0,4,3,Guard,5.6,Other
+85500,2.0,2.0,6,2,Guard,8.6,Waiyaki Way
+94500,3.0,3.0,10,4,Gated+Guard+CCTV,6.1,Westlands Area
+87500,3.0,4.0,11,4,Guard,7.4,Kilimani
+90500,3.0,4.0,6,1,Gated+Guard+CCTV,7.1,Lavington
+86000,2.0,2.0,3,4,Unknown,10.9,Kilimani
+86000,3.0,2.0,8,0,Gated+Guard,5.6,Lavington
+94000,3.0,2.0,6,3,Gated+Guard,3.8,Riverside
+92000,1.0,1.0,6,3,Gated+Guard,6.2,Other
+79000,3.0,3.0,21,2,Gated+Guard,9.4,Kilimani
+74500,3.0,2.0,17,3,Guard,16.2,Ruaka
+87500,3.0,3.0,10,1,Gated+Guard,5.0,Riverside
+95000,3.0,3.0,8,4,Gated+Guard,3.9,Riverside
+85500,3.0,3.0,9,3,Unknown,5.4,Lavington
+87000,3.0,2.0,10,0,Gated+Guard,3.3,Riverside
+82500,3.0,2.0,13,2,Guard,7.3,Waiyaki Way
+79500,2.0,2.0,13,1,Guard,9.0,Kilimani
+86000,3.0,3.0,5,0,Gated+Guard,7.3,Rhapta Road
+89000,1.0,1.0,10,3,Guard,4.2,Kileleshwa
+87500,2.0,3.0,8,1,Gated+Guard,6.2,Lavington
+63000,3.0,3.0,24,1,Guard,24.9,Other
+76000,3.0,2.0,12,1,Unknown,10.3,Kilimani
+87500,3.0,2.0,10,4,Guard,7.8,Lavington
+90000,2.0,3.0,4,3,Unknown,3.7,Riverside
+84500,1.0,1.0,11,0,Gated+Guard,5.6,Other
+83000,3.0,4.0,4,1,Guard,10.1,Kilimani
+87500,3.0,3.0,7,4,Guard,9.7,Kilimani
+84500,3.0,2.0,5,2,Unknown,7.3,Lavington
+81500,2.0,2.0,13,1,Guard,6.4,Lavington
+88000,3.0,3.0,6,2,Gated+Guard,8.6,Kilimani
+81500,3.0,3.0,8,1,Unknown,6.4,Westlands Area
+82000,3.0,2.0,18,3,Gated+Guard,10.2,Kilimani
+97000,3.0,3.0,6,3,Gated+Guard+CCTV,3.8,Upper Hill
+96500,3.0,3.0,10,6,Gated+Guard,4.8,Kileleshwa
+87000,3.0,3.0,8,1,Gated+Guard,6.8,Lavington
+85000,3.0,3.0,2,3,Unknown,10.3,Kilimani
+80000,3.0,4.0,15,1,Guard,7.0,Ngong Road
+92000,3.0,2.0,3,4,Gated+Guard,9.7,Kilimani
+86000,3.0,2.0,9,2,Gated+Guard,8.8,Kilimani
+86500,3.0,2.0,11,3,Gated+Guard,9.2,Kilimani
+84500,2.0,2.0,12,1,Gated+Guard,6.9,Rhapta Road
+84500,3.0,3.0,13,2,Guard,5.4,Ngong Road
+86500,1.0,1.0,6,2,Unknown,4.2,Riverside
+95000,1.0,2.0,1,2,Gated+Guard,3.8,Riverside
+86000,1.0,2.0,14,1,Gated+Guard,4.0,Riverside
+83000,3.0,2.0,16,1,Gated+Guard,6.1,Westlands Area
+77500,2.0,3.0,16,1,Guard,9.1,Kilimani
+83000,3.0,3.0,16,2,Guard,5.0,Westlands Area
+88500,3.0,3.0,9,2,Gated+Guard,6.5,Lavington
+95000,3.0,3.0,7,5,Gated+Guard,6.5,Lavington
+74500,3.0,5.0,15,0,Guard,11.3,Kilimani
+81500,3.0,3.0,9,0,Unknown,4.3,Kileleshwa
+87000,3.0,3.0,5,2,Unknown,4.6,Kileleshwa
+79500,2.0,2.0,17,1,Gated+Guard,9.3,Kilimani
+85500,2.0,3.0,18,4,Guard,5.4,Kileleshwa
+89500,2.0,2.0,9,4,Gated+Guard,8.9,Kilimani
+91500,3.0,3.0,3,2,Gated+Guard+CCTV,9.3,Kilimani
+88500,2.0,2.0,8,1,Gated+Guard,4.8,Kileleshwa
+78000,3.0,3.0,15,1,Guard,9.2,Kilimani
+85000,3.0,3.0,18,4,Gated+Guard,8.5,Other
+83000,3.0,3.0,6,1,Guard,9.2,Other
+90000,3.0,3.0,3,6,Unknown,10.2,Kilimani
+77000,3.0,2.0,17,0,Unknown,4.4,Parklands
+84500,1.0,1.0,8,1,Guard,6.1,Westlands Area
+93000,4.0,5.0,10,3,Gated+Guard+CCTV,5.5,Lavington
+71000,2.0,2.0,21,1,Unknown,10.3,Kilimani
+89500,1.0,1.0,3,3,Unknown,4.9,Lavington
+92000,1.0,1.0,12,2,Gated+Guard+CCTV,3.7,Riverside
+83500,2.0,2.0,3,2,Unknown,9.4,Other
+86500,3.0,3.0,8,1,Gated+Guard,7.1,Brookside
+80000,3.0,3.0,15,2,Guard,8.9,Riara Road
+80000,3.0,3.0,9,0,Unknown,5.6,Rhapta Road
+80500,3.0,4.0,24,1,Gated+Guard+CCTV,7.4,Lavington
+79500,4.0,5.0,11,0,Unknown,5.0,Lavington
+95000,3.0,3.0,7,5,Guard,3.3,Kileleshwa
+88000,4.0,4.0,6,4,Guard,9.5,Riara Road
+88000,2.0,2.0,7,3,Unknown,4.2,Kileleshwa
+87500,3.0,3.0,8,1,Unknown,5.3,Westlands Area
+91000,2.0,2.0,3,2,Unknown,6.5,Westlands Area
+83500,3.0,3.0,8,1,Unknown,9.3,Kilimani
+99500,1.0,1.0,9,4,Gated+Guard,3.7,Riverside
+84500,2.0,2.0,14,1,Guard,7.6,Kilimani
+81500,4.0,4.0,12,0,Guard,9.9,Kilimani
+90000,2.0,2.0,13,3,Guard,6.5,Rhapta Road
+96500,2.0,2.0,1,1,Gated+Guard+CCTV,8.9,Kilimani
+99000,3.0,3.0,6,3,Gated+Guard+CCTV,7.3,Lavington
+86500,3.0,3.0,12,0,Gated+Guard,7.8,Valley Arcade
+92500,3.0,2.0,9,2,Gated+Guard,7.4,Kilimani
+93000,3.0,3.0,1,2,Guard,8.3,Kilimani
+82500,3.0,3.0,15,1,Guard,9.0,Kilimani
+92000,2.0,2.0,15,3,Gated+Guard,6.2,Rhapta Road
+95000,2.0,2.0,10,3,Gated+Guard,5.8,Rhapta Road
+93500,2.0,2.0,3,1,Guard,4.7,Kileleshwa
+87000,2.0,2.0,14,1,Guard,5.1,Westlands Area
+96500,3.0,2.0,11,3,Gated+Guard+CCTV,7.0,Lavington
+90000,2.0,2.0,15,1,Gated+Guard,4.5,Kileleshwa
+81000,2.0,2.0,14,0,Guard,9.1,Westlands Area
+85000,2.0,2.0,15,1,Gated+Guard,9.4,Riara Road
+92000,1.0,1.0,10,3,Guard,6.3,Rhapta Road
+95500,1.0,1.0,5,4,Unknown,4.3,Riverside
+90000,3.0,4.0,13,2,Guard,4.7,Kileleshwa
+82000,3.0,2.0,12,0,Guard,9.7,Kilimani
+81000,3.0,2.0,14,2,Unknown,10.4,Kilimani
+91000,3.0,2.0,5,1,Gated+Guard,9.2,Kilimani
+85500,1.0,1.0,8,3,Guard,14.1,Kiambu Road
+87000,3.0,3.0,18,2,Guard,4.5,Kileleshwa
+84000,1.0,1.0,14,2,Unknown,7.0,Westlands Area
+84500,3.0,3.0,18,2,Unknown,4.1,Kileleshwa
+86000,3.0,2.0,14,0,Gated+Guard,7.3,Westlands Area
+94500,2.0,2.0,11,3,Gated+Guard,6.0,Lavington
+93500,2.0,2.0,12,2,Gated+Guard+CCTV,7.5,Riara Road
+85500,3.0,2.0,18,0,Gated+Guard+CCTV,8.1,Waiyaki Way
+90000,3.0,3.0,11,2,Guard,5.5,Lavington
+90000,3.0,4.0,12,2,Guard,5.0,Kileleshwa
+98000,3.0,3.0,5,2,Gated+Guard,4.1,Kileleshwa
+97000,1.0,1.0,9,2,Gated+Guard+CCTV,5.7,Rhapta Road
+94500,2.0,2.0,13,3,Gated+Guard,4.6,Westlands Area
+92000,4.0,4.0,6,1,Gated+Guard,7.6,Waiyaki Way
+95000,3.0,3.0,6,2,Gated+Guard,6.4,Kilimani
+90500,3.0,3.0,7,2,Guard,7.3,Kilimani
+91000,3.0,3.0,6,3,Guard,9.8,Kilimani
+92000,4.0,5.0,6,2,Gated+Guard,9.8,Kilimani
+98000,3.0,3.0,8,4,Gated+Guard,6.3,Lavington
+81000,3.0,4.0,18,2,Unknown,8.0,Valley Arcade
+90000,3.0,3.0,10,1,Guard,4.5,Kileleshwa
+90000,3.0,3.0,5,1,Unknown,4.5,Kileleshwa
+83500,2.0,2.0,3,0,Unknown,10.3,Other
+93000,3.0,3.0,13,2,Gated+Guard+CCTV,7.1,Lavington
+99000,4.0,2.0,4,6,Unknown,6.6,Lavington
+87000,3.0,3.0,16,2,Guard,8.8,Kilimani
+87000,3.0,3.0,12,1,Guard,9.0,Kilimani
+98500,4.0,4.0,9,3,Gated+Guard,6.2,Rhapta Road
+102500,3.0,4.0,4,4,Gated+Guard,6.8,Kilimani
+88500,3.0,3.0,13,2,Guard,8.7,Kilimani
+95000,3.0,3.0,6,3,Guard,8.3,Kilimani
+100500,3.0,2.0,12,5,Guard,5.3,Lavington
+98000,3.0,4.0,12,4,Gated+Guard,8.7,Kilimani
+94000,2.0,2.0,7,3,Guard,10.9,Kilimani
+110000,3.0,3.0,4,5,Gated+Guard+CCTV,6.5,Lavington
+110000,3.0,4.0,3,5,Gated+Guard,4.2,Kileleshwa
+94500,3.0,4.0,8,2,Unknown,4.8,Kileleshwa
+105500,3.0,3.0,3,3,Gated+Guard,4.7,Riverside
+90500,3.0,3.0,11,2,Guard,10.0,Kilimani
+99500,1.0,1.0,6,3,Gated+Guard,9.1,Kilimani
+93500,1.0,1.0,12,3,Guard,8.3,Kilimani
+98000,5.0,6.0,9,2,Gated+Guard,6.5,Lavington
+94500,2.0,2.0,15,2,Gated+Guard+CCTV,9.4,Kilimani
+96500,3.0,4.0,14,3,Gated+Guard+CCTV,10.0,Other
+98500,3.0,4.0,5,4,Guard,9.7,Valley Arcade
+101000,3.0,4.0,2,3,Guard,6.8,Lavington
+95500,1.0,1.0,8,0,Gated+Guard,5.6,Westlands Area
+102000,4.0,4.0,5,1,Gated+Guard+CCTV,6.1,Rhapta Road
+99500,3.0,2.0,2,6,Unknown,11.2,Kilimani
+97000,3.0,3.0,6,3,Guard,8.3,Kilimani
+107500,3.0,3.0,2,5,Gated+Guard,7.2,Rhapta Road
+98000,4.0,3.0,10,3,Guard,5.1,Parklands
+104000,3.0,2.0,6,6,Guard,7.4,Waiyaki Way
+99500,3.0,4.0,6,3,Guard,5.7,Lavington
+101500,3.0,5.0,1,1,Gated+Guard,5.8,Lavington
+94500,3.0,4.0,12,1,Gated+Guard+CCTV,9.5,Valley Arcade
+102000,3.0,4.0,4,1,Gated+Guard+CCTV,6.4,Lavington
+104000,1.0,1.0,11,5,Gated+Guard,5.6,Westlands Area
+97500,4.0,4.0,11,2,Gated+Guard,6.0,Rhapta Road
+94500,3.0,3.0,7,0,Gated+Guard+CCTV,10.1,Waiyaki Way
+91000,2.0,2.0,18,3,Guard,7.2,Rhapta Road
+103500,3.0,3.0,14,6,Gated+Guard,6.3,Westlands Area
+99500,3.0,3.0,9,2,Gated+Guard,5.0,Parklands
+97000,3.0,4.0,10,3,Guard,6.1,Rhapta Road
+106000,3.0,3.0,3,4,Gated+Guard,6.4,Lavington
+92500,2.0,2.0,11,4,Unknown,8.8,Karen
+101000,3.0,2.0,2,1,Gated+Guard,5.8,Lavington
+104000,3.0,3.0,2,3,Guard,3.6,Kileleshwa
+83000,3.0,3.0,24,2,Guard,9.4,Kilimani
+77500,2.0,3.0,11,3,Guard,30.2,Other
+107500,3.0,3.0,8,4,Gated+Guard+CCTV,4.7,Parklands
+96000,3.0,3.0,15,3,Gated+Guard,7.1,Lavington
+101500,3.0,3.0,10,3,Gated+Guard,4.3,Parklands
+99500,3.0,2.0,14,3,Gated+Guard,4.1,Parklands
+101000,4.0,3.0,6,4,Gated+Guard,9.2,Riara Road
+95500,4.0,4.0,2,2,Guard,10.1,Kilimani
+80000,3.0,2.0,12,3,Gated+Guard,38.5,Other
+100000,2.0,3.0,4,4,Guard,8.5,Kilimani
+101500,1.0,1.0,2,5,Guard,10.2,Kilimani
+101500,3.0,4.0,4,2,Gated+Guard,6.0,Lavington
+95500,4.0,3.0,9,2,Guard,5.9,Westlands Area
+95000,3.0,2.0,6,1,Guard,6.6,Westlands Area
+102500,2.0,2.0,4,2,Gated+Guard,4.9,Kileleshwa
+105000,2.0,1.0,7,4,Gated+Guard,4.9,Westlands Area
+101500,4.0,4.0,6,3,Gated+Guard,7.1,Lavington
+101000,3.0,3.0,1,3,Gated+Guard,10.5,Kilimani
+101500,3.0,2.0,8,2,Gated+Guard,3.7,Riverside
+95500,3.0,2.0,12,3,Gated+Guard,9.4,Kilimani
+93000,4.0,4.0,14,4,Guard,9.5,Kilimani
+98000,3.0,3.0,1,1,Guard,6.2,Lavington
+94000,3.0,3.0,16,3,Gated+Guard,8.4,Kilimani
+99500,3.0,3.0,12,6,Guard,8.3,Kilimani
+105500,3.0,3.0,6,3,Gated+Guard+CCTV,6.0,Westlands Area
+100000,2.0,2.0,7,1,Gated+Guard+CCTV,6.8,Other
+96500,3.0,3.0,10,3,Guard,6.4,Lavington
+99500,2.0,3.0,6,4,Unknown,4.9,Kileleshwa
+99500,3.0,2.0,14,4,Guard,3.3,Parklands
+95000,2.0,3.0,8,1,Guard,5.1,Kileleshwa
+110500,3.0,3.0,5,6,Gated+Guard,4.7,Westlands Area
+108500,2.0,2.0,8,5,Gated+Guard+CCTV,5.7,Westlands Area
+100000,2.0,2.0,5,2,Gated+Guard,6.9,Waiyaki Way
+96000,2.0,2.0,3,0,Guard,5.1,Other
+95000,1.0,1.0,11,3,Gated+Guard,10.3,Kilimani
+105500,3.0,3.0,11,6,Gated+Guard,5.7,Westlands Area
+104000,2.0,2.0,11,4,Gated+Guard+CCTV,6.2,Westlands Area
+98000,3.0,2.0,7,1,Gated+Guard+CCTV,8.9,Kilimani
+97500,3.0,4.0,10,2,Gated+Guard+CCTV,9.5,Kilimani
+104000,3.0,3.0,3,3,Gated+Guard,6.1,Rhapta Road
+98000,3.0,3.0,14,2,Gated+Guard,3.4,Riverside
+102000,2.0,3.0,13,6,Guard,5.0,Kileleshwa
+97000,3.0,2.0,7,0,Gated+Guard,4.7,Parklands
+98500,1.0,2.0,9,3,Guard,4.9,Westlands Area
+102500,2.0,1.0,8,4,Gated+Guard,6.6,General Mathenge
+105500,4.0,4.0,6,4,Gated+Guard,4.7,Riverside
+99000,3.0,3.0,2,2,Guard,6.6,Brookside
+97500,2.0,2.0,5,3,Unknown,5.7,Westlands Area
+101500,2.0,2.0,7,5,Unknown,4.3,Kileleshwa
+96000,3.0,3.0,7,3,Unknown,5.8,Brookside
+104000,3.0,3.0,4,6,Unknown,5.6,Kileleshwa
+91500,3.0,3.0,12,1,Guard,6.3,Brookside
+100000,4.0,4.0,6,3,Guard,5.6,Parklands
+104000,2.0,2.0,8,3,Gated+Guard+CCTV,6.2,Westlands Area
+76500,2.0,2.0,19,5,Guard,38.8,Thika Road
+89000,3.0,2.0,12,1,Guard,8.8,Kilimani
+99500,3.0,3.0,6,3,Gated+Guard,8.9,Kilimani
+107000,1.0,1.0,3,3,Gated+Guard+CCTV,6.0,Lavington
+95000,2.0,2.0,12,3,Gated+Guard,9.8,Kilimani
+97000,1.0,1.0,7,2,Guard,6.0,Lavington
+99000,3.0,3.0,5,3,Gated+Guard,9.8,Kilimani
+98500,2.0,2.0,8,1,Gated+Guard,4.5,Kileleshwa
+103500,3.0,3.0,9,5,Gated+Guard,7.1,General Mathenge
+103000,3.0,3.0,7,4,Gated+Guard,6.8,Kilimani
+104500,3.0,3.0,10,4,Gated+Guard+CCTV,6.7,Rhapta Road
+107000,2.0,2.0,3,3,Gated+Guard+CCTV,6.2,Brookside
+100500,3.0,2.0,2,3,Gated+Guard,10.1,Kilimani
+103500,3.0,3.0,9,3,Gated+Guard,3.3,Parklands
+104500,1.0,2.0,8,3,Gated+Guard+CCTV,5.9,Other
+90000,1.0,1.0,16,5,Unknown,10.2,Kilimani
+106500,3.0,4.0,9,4,Gated+Guard+CCTV,5.3,Lavington
+106500,3.0,3.0,6,5,Gated+Guard,6.1,General Mathenge
+108000,3.0,3.0,5,3,Gated+Guard+CCTV,4.2,Kileleshwa
+97500,3.0,2.0,8,4,Guard,8.6,General Mathenge
+108000,3.0,4.0,3,4,Gated+Guard,4.4,Kileleshwa
+101000,2.0,2.0,6,4,Guard,6.2,Westlands Area
+107000,1.0,1.0,4,5,Gated+Guard,6.6,Other
+97500,1.0,1.0,11,3,Guard,4.8,Kileleshwa
+108000,2.0,2.0,6,5,Gated+Guard,4.6,Kileleshwa
+101500,2.0,2.0,6,2,Gated+Guard,4.7,Kileleshwa
+99000,3.0,3.0,7,3,Gated+Guard+CCTV,11.6,Kilimani
+108000,1.0,1.0,2,3,Gated+Guard+CCTV,6.0,Other
+102000,2.0,2.0,1,2,Guard,4.6,Kileleshwa
+110000,3.0,3.0,5,6,Gated+Guard,5.1,Kileleshwa
+95500,4.0,4.0,4,4,Unknown,10.2,Riara Road
+93000,3.0,2.0,7,2,Unknown,6.9,Lavington
+92500,4.0,4.0,10,1,Guard,6.5,Lavington
+108500,3.0,3.0,10,5,Gated+Guard+CCTV,4.3,Parklands
+100500,1.0,1.0,12,3,Gated+Guard+CCTV,7.2,Other
+95500,3.0,4.0,6,2,Guard,7.8,Kilimani
+97500,3.0,2.0,17,6,Guard,9.3,Kilimani
+94500,1.0,2.0,18,3,Guard,8.2,Kilimani
+107000,2.0,2.0,3,1,Gated+Guard,4.5,Kileleshwa
+104000,1.0,1.0,8,2,Gated+Guard,6.2,Rhapta Road
+106000,2.0,2.0,4,1,Guard,6.2,Brookside
+104000,3.0,3.0,15,2,Gated+Guard+CCTV,9.5,Kilimani
+96000,3.0,4.0,24,3,Guard,7.2,Rhapta Road
+112500,3.0,3.0,2,2,Gated+Guard+CCTV,9.5,Kilimani
+111500,1.0,2.0,11,3,Gated+Guard,3.9,Riverside
+104500,3.0,2.0,12,3,Gated+Guard,10.0,Kilimani
+99000,1.0,1.0,21,2,Gated+Guard+CCTV,10.3,Kilimani
+118500,3.0,3.0,9,6,Gated+Guard+CCTV,7.7,Kilimani
+106000,3.0,3.0,10,2,Guard,4.8,Kileleshwa
+111500,3.0,4.0,2,3,Guard,6.5,Rhapta Road
+115500,3.0,2.0,4,2,Gated+Guard+CCTV,5.8,Lavington
+104000,3.0,3.0,3,2,Guard,10.5,Kilimani
+105500,3.0,3.0,13,4,Unknown,4.4,Kileleshwa
+105000,3.0,4.0,16,4,Gated+Guard,9.1,Kilimani
+108000,3.0,3.0,10,1,Gated+Guard+CCTV,6.9,Other
+96000,4.0,3.0,28,4,Gated+Guard+CCTV,13.0,Other
+116500,2.0,2.0,2,2,Gated+Guard+CCTV,6.1,General Mathenge
+114000,3.0,3.0,4,2,Gated+Guard,4.1,Parklands
+111000,3.0,3.0,2,2,Guard,4.8,Riverside
+117500,3.0,4.0,3,4,Gated+Guard,5.4,Lavington
+116500,3.0,3.0,3,1,Gated+Guard+CCTV,3.5,Riverside
+112500,3.0,4.0,5,6,Unknown,6.7,Kilimani
+111000,4.0,4.0,4,3,Guard,5.5,Westlands Area
+103500,1.0,1.0,4,2,Unknown,7.6,Kilimani
+112000,3.0,3.0,5,3,Gated+Guard,7.2,Westlands Area
+124000,2.0,2.0,3,6,Gated+Guard+CCTV,6.7,Lavington
+113000,1.0,1.0,13,5,Gated+Guard,5.5,Westlands Area
+104500,3.0,3.0,14,3,Gated+Guard+CCTV,11.4,Riara Road
+100500,2.0,2.0,13,2,Unknown,5.0,Kileleshwa
+111000,3.0,3.0,9,3,Gated+Guard+CCTV,8.6,Kilimani
+123000,4.0,3.0,4,4,Gated+Guard+CCTV,2.8,Riverside
+104000,3.0,3.0,9,1,Guard,5.1,Riverside
+120500,1.0,1.0,4,4,Gated+Guard+CCTV,5.0,Lavington
+112000,1.0,2.0,4,3,Guard,4.8,Westlands Area
+117000,6.0,6.0,3,3,Gated+Guard+CCTV,6.7,Ngong Road
+113000,3.0,3.0,4,2,Gated+Guard+CCTV,7.8,Other
+107500,3.0,3.0,6,2,Gated+Guard+CCTV,11.7,Karen
+109500,3.0,4.0,8,4,Gated+Guard,9.6,Kilimani
+103000,4.0,3.0,13,4,Guard,9.6,Kilimani
+108000,3.0,4.0,3,2,Gated+Guard,9.9,Kilimani
+109500,2.0,2.0,6,3,Gated+Guard,8.7,Waiyaki Way
+113500,1.0,1.0,9,3,Gated+Guard+CCTV,6.2,Rhapta Road
+120000,3.0,4.0,3,3,Gated+Guard+CCTV,4.1,Riverside
+116500,3.0,3.0,4,2,Gated+Guard+CCTV,4.5,Kileleshwa
+99500,3.0,3.0,10,0,Unknown,3.6,Riverside
+117000,2.0,2.0,3,3,Gated+Guard+CCTV,6.8,General Mathenge
+117500,3.0,4.0,2,2,Gated+Guard+CCTV,4.8,Lavington
+116500,3.0,4.0,5,2,Gated+Guard+CCTV,4.0,Riverside
+113500,3.0,4.0,4,4,Guard,5.3,Westlands Area
+108000,3.0,3.0,6,3,Unknown,4.3,Parklands
+108500,3.0,3.0,9,5,Unknown,6.1,Westlands Area
+110500,3.0,3.0,5,4,Gated+Guard,10.5,Kilimani
+116500,4.0,4.0,6,5,Gated+Guard,6.7,Lavington
+105500,3.0,3.0,10,0,Gated+Guard+CCTV,7.3,Kilimani
+115500,2.0,2.0,5,5,Gated+Guard,7.9,Kilimani
+110000,4.0,3.0,7,3,Guard,5.0,Kileleshwa
+112500,3.0,3.0,6,4,Gated+Guard,7.9,Kilimani
+113000,3.0,4.0,9,4,Gated+Guard+CCTV,8.8,Kilimani
+118000,4.0,3.0,2,3,Gated+Guard+CCTV,6.4,Brookside
+109500,3.0,2.0,9,2,Gated+Guard+CCTV,8.0,Kilimani
+114000,1.0,1.0,4,3,Gated+Guard,6.1,Westlands Area
+113500,3.0,2.0,9,3,Gated+Guard,3.4,Riverside
+123500,3.0,2.0,2,5,Gated+Guard+CCTV,5.6,Lavington
+113000,1.0,2.0,5,3,Gated+Guard,6.2,Westlands Area
+111500,3.0,3.0,8,4,Guard,4.7,Kileleshwa
+101500,2.0,2.0,11,4,Unknown,9.0,Kilimani
+100500,3.0,5.0,12,1,Gated+Guard,9.6,Kilimani
+112500,4.0,4.0,9,5,Guard,5.1,Parklands
+99000,3.0,2.0,17,2,Guard,7.0,Brookside
+101000,1.0,1.0,7,1,Guard,9.1,Kilimani
+111000,1.0,1.0,6,2,Gated+Guard,5.7,Westlands Area
+116500,2.0,3.0,10,6,Gated+Guard,6.1,Westlands Area
+107000,2.0,3.0,14,3,Gated+Guard,6.4,Westlands Area
+107000,1.0,1.0,11,5,Unknown,6.0,Westlands Area
+113000,3.0,4.0,4,4,Guard,6.0,Rhapta Road
+111000,3.0,2.0,3,1,Gated+Guard,5.5,Lavington
+102500,2.0,2.0,9,2,Guard,8.3,Kilimani
+104500,3.0,4.0,8,1,Guard,5.0,Rhapta Road
+107000,3.0,2.0,9,5,Unknown,7.3,Lavington
+116500,3.0,3.0,5,1,Gated+Guard+CCTV,3.8,Kileleshwa
+114000,3.0,3.0,10,3,Gated+Guard,4.6,Parklands
+114000,3.0,3.0,4,2,Guard,5.5,Westlands Area
+101000,3.0,3.0,17,4,Unknown,10.0,Riara Road
+121000,3.0,2.0,5,2,Gated+Guard+CCTV,4.8,Parklands
+118000,3.0,3.0,4,3,Gated+Guard,6.9,Rhapta Road
+121500,3.0,2.0,5,4,Gated+Guard,5.5,Westlands Area
+109500,2.0,2.0,14,3,Gated+Guard,8.3,Waiyaki Way
+125500,4.0,4.0,2,3,Gated+Guard+CCTV,4.5,Parklands
+120500,3.0,4.0,5,5,Gated+Guard+CCTV,11.3,Kilimani
+116500,3.0,3.0,12,3,Gated+Guard,3.4,Riverside
+121500,1.0,1.0,5,6,Gated+Guard,9.3,Kilimani
+108000,3.0,3.0,6,2,Unknown,6.5,Westlands Area
+111500,3.0,4.0,11,2,Gated+Guard+CCTV,9.4,Kilimani
+105500,3.0,2.0,9,0,Gated+Guard,8.8,Kilimani
+107000,2.0,2.0,12,3,Guard,8.9,Kilimani
+123500,3.0,3.0,3,3,Gated+Guard+CCTV,6.0,Westlands Area
+119000,3.0,3.0,6,2,Gated+Guard+CCTV,5.9,Westlands Area
+117000,3.0,3.0,4,1,Gated+Guard+CCTV,6.7,Westlands Area
+128000,3.0,4.0,7,6,Gated+Guard+CCTV,5.7,Kileleshwa
+121500,3.0,3.0,5,4,Gated+Guard+CCTV,8.4,Kilimani
+116000,3.0,3.0,11,6,Guard,7.5,Kilimani
+125500,4.0,5.0,3,4,Gated+Guard+CCTV,5.9,Lavington
+116500,3.0,3.0,6,2,Gated+Guard+CCTV,7.9,Rhapta Road
+117000,3.0,3.0,3,2,Guard,3.6,Riverside
+115000,3.0,3.0,5,5,Unknown,7.2,Rhapta Road
+124500,1.0,1.0,9,5,Gated+Guard+CCTV,5.4,Kileleshwa
+115500,3.0,4.0,7,5,Guard,8.4,Kilimani
+115500,3.0,3.0,11,1,Gated+Guard+CCTV,6.4,Lavington
+105000,3.0,2.0,13,0,Unknown,4.8,Riverside
+118500,3.0,2.0,6,4,Unknown,5.7,Rhapta Road
+123000,2.0,2.0,3,2,Gated+Guard,5.9,Lavington
+119000,3.0,3.0,4,2,Guard,5.6,Rhapta Road
+119000,3.0,3.0,15,5,Gated+Guard,7.9,Riara Road
+125000,3.0,3.0,4,3,Gated+Guard,5.5,Lavington
+122000,4.0,4.0,2,4,Unknown,5.1,Rhapta Road
+105500,1.0,1.0,10,0,Guard,9.0,Other
+115500,3.0,2.0,16,4,Gated+Guard,8.2,Kilimani
+106500,4.0,3.0,15,2,Guard,9.3,Kilimani
+126500,3.0,3.0,3,2,Gated+Guard+CCTV,5.7,General Mathenge
+123500,2.0,3.0,7,3,Gated+Guard,4.7,Kileleshwa
+114500,3.0,5.0,3,2,Unknown,6.6,Lavington
+126000,3.0,3.0,3,2,Gated+Guard,3.0,Riverside
+117500,3.0,3.0,10,4,Unknown,4.2,Riverside
+111500,2.0,2.0,6,2,Guard,10.3,Riara Road
+127500,3.0,3.0,0,1,Gated+Guard+CCTV,4.8,Riverside
+119500,4.0,4.0,17,4,Gated+Guard+CCTV,7.4,General Mathenge
+113500,4.0,4.0,15,1,Gated+Guard+CCTV,7.3,Waiyaki Way
+116500,3.0,4.0,12,5,Guard,8.9,Kilimani
+114500,3.0,4.0,8,1,Guard,4.8,Kileleshwa
+127500,3.0,3.0,3,4,Gated+Guard,6.1,Westlands Area
+123000,3.0,3.0,5,3,Gated+Guard,6.4,Westlands Area
+126500,3.0,3.0,4,2,Gated+Guard+CCTV,5.3,Rhapta Road
+115500,3.0,4.0,4,2,Guard,8.2,Waiyaki Way
+113000,3.0,3.0,5,1,Unknown,5.0,Westlands Area
+107500,3.0,4.0,19,2,Gated+Guard,8.9,Kilimani
+127500,2.0,2.0,1,1,Gated+Guard+CCTV,4.0,Kileleshwa
+128500,4.0,2.0,4,3,Gated+Guard+CCTV,5.5,Brookside
+119000,1.0,2.0,3,1,Gated+Guard,6.9,Westlands Area
+128000,3.0,3.0,3,2,Gated+Guard+CCTV,4.5,Riverside
+123500,3.0,3.0,11,5,Gated+Guard,6.4,Lavington
+135500,3.0,3.0,5,6,Gated+Guard+CCTV,5.2,Westlands Area
+126000,3.0,3.0,5,2,Gated+Guard+CCTV,4.8,Parklands
+115500,3.0,3.0,14,3,Gated+Guard+CCTV,10.3,Kilimani
+121000,1.0,1.0,5,5,Guard,9.2,Kilimani
+115500,1.0,1.0,5,1,Guard,5.8,Kileleshwa
+128000,3.0,3.0,5,5,Gated+Guard,6.3,Lavington
+108000,4.0,2.0,11,0,Gated+Guard,9.2,Kilimani
+112000,3.0,2.0,25,4,Gated+Guard+CCTV,8.7,Kilimani
+106500,2.0,2.0,15,2,Guard,9.1,Kilimani
+115500,3.0,2.0,5,1,Guard,5.9,Westlands Area
+121500,3.0,2.0,9,1,Gated+Guard+CCTV,4.3,Riverside
+112500,3.0,2.0,3,0,Unknown,4.5,Riverside
+119500,3.0,3.0,2,3,Guard,8.2,Kilimani
+125500,3.0,3.0,3,2,Gated+Guard,3.8,Kileleshwa
+122000,4.0,4.0,4,1,Gated+Guard,3.9,Parklands
+119500,4.0,3.0,10,6,Guard,9.5,Kilimani
+122000,1.0,1.0,7,1,Gated+Guard+CCTV,5.2,Westlands Area
+122000,3.0,3.0,11,3,Gated+Guard,3.7,Parklands
+126000,3.0,3.0,6,3,Gated+Guard+CCTV,6.3,Lavington
+121500,2.0,2.0,6,2,Gated+Guard,5.2,Riverside
+119500,3.0,3.0,4,6,Guard,13.0,Other
+122000,3.0,3.0,1,3,Guard,6.6,Rhapta Road
+125500,3.0,2.0,5,3,Gated+Guard,4.4,Kileleshwa
+112500,3.0,3.0,16,4,Guard,7.8,Westlands Area
+120500,3.0,3.0,3,0,Gated+Guard,3.9,Westlands Area
+124000,1.0,1.0,1,2,Gated+Guard,6.2,Westlands Area
+111000,4.0,3.0,9,2,Guard,9.3,Kilimani
+120500,3.0,3.0,3,2,Guard,4.6,Parklands
+128500,2.0,2.0,3,5,Gated+Guard+CCTV,10.1,Other
+120000,3.0,3.0,14,4,Gated+Guard+CCTV,8.8,Riara Road
+120500,3.0,4.0,2,2,Guard,5.5,Westlands Area
+118000,3.0,4.0,7,3,Guard,6.4,Rhapta Road
+130500,3.0,4.0,4,3,Gated+Guard+CCTV,4.0,Kileleshwa
+117500,1.0,1.0,5,5,Unknown,9.0,Kilimani
+116500,3.0,3.0,8,1,Gated+Guard+CCTV,9.0,Kilimani
+106500,3.0,3.0,15,4,Unknown,10.2,Kilimani
+121500,3.0,3.0,5,0,Gated+Guard+CCTV,4.8,Kileleshwa
+115500,3.0,4.0,8,2,Guard,6.0,Lavington
+126000,3.0,3.0,2,2,Gated+Guard+CCTV,6.6,Westlands Area
+105500,1.0,1.0,15,1,Guard,8.2,General Mathenge
+127000,4.0,5.0,3,4,Gated+Guard,6.4,Westlands Area
+114000,2.0,2.0,13,5,Unknown,7.0,General Mathenge
+111500,3.0,3.0,11,2,Guard,7.6,Kilimani
+117500,3.0,3.0,19,4,Gated+Guard+CCTV,7.8,Kilimani
+124000,2.0,2.0,8,5,Gated+Guard,7.7,Waiyaki Way
+126500,2.0,2.0,2,1,Gated+Guard+CCTV,4.2,Kileleshwa
+126000,3.0,4.0,1,2,Gated+Guard,4.4,Kileleshwa
+128500,4.0,4.0,9,4,Gated+Guard+CCTV,4.5,Kileleshwa
+118000,3.0,4.0,10,4,Gated+Guard,9.6,Kilimani
+119500,3.0,3.0,9,1,Gated+Guard+CCTV,5.9,Lavington
+130500,1.0,1.0,3,4,Gated+Guard+CCTV,6.4,Westlands Area
+128000,3.0,2.0,4,6,Guard,6.0,Westlands Area
+132000,2.0,3.0,1,3,Gated+Guard+CCTV,4.6,Lavington
+126500,4.0,3.0,12,4,Gated+Guard+CCTV,4.4,Parklands
+117000,3.0,2.0,12,2,Gated+Guard,5.1,Lavington
+121500,3.0,3.0,4,5,Unknown,6.4,Lavington
+124000,3.0,4.0,7,2,Gated+Guard+CCTV,5.3,Kileleshwa
+104500,2.0,2.0,13,1,Guard,10.3,Kilimani
+115000,3.0,3.0,4,2,Unknown,5.8,Lavington
+112000,3.0,2.0,17,4,Gated+Guard,10.6,Kilimani
+116000,3.0,3.0,12,2,Gated+Guard,6.1,Lavington
+117000,3.0,3.0,18,4,Gated+Guard+CCTV,8.6,Kilimani
+120500,2.0,2.0,8,1,Gated+Guard+CCTV,5.6,Lavington
+127000,2.0,2.0,4,4,Gated+Guard,5.8,Westlands Area
+122500,2.0,2.0,4,5,Unknown,5.7,Westlands Area
+118500,2.0,2.0,12,3,Gated+Guard,6.1,Westlands Area
+121500,1.0,1.0,1,1,Gated+Guard,6.1,Westlands Area
+125000,3.0,3.0,8,4,Gated+Guard,5.0,Parklands
+117000,2.0,2.0,8,2,Guard,4.7,Kileleshwa
+128000,3.0,3.0,7,5,Gated+Guard,5.1,Kileleshwa
+112500,3.0,3.0,14,3,Guard,6.7,Westlands Area
+126500,4.0,4.0,4,4,Gated+Guard,6.2,Kilimani
+128500,3.0,4.0,3,5,Gated+Guard+CCTV,10.0,Kilimani
+127000,3.0,3.0,5,3,Gated+Guard,3.3,Riverside
+124000,3.0,4.0,3,3,Guard,3.9,Riverside
+121500,1.0,1.0,7,2,Gated+Guard+CCTV,7.7,Kilimani
+121500,4.0,4.0,10,3,Gated+Guard,4.7,Westlands Area
+122000,4.0,4.0,12,5,Guard,4.3,Riverside
+121500,2.0,2.0,5,4,Gated+Guard,9.8,Kilimani
+120000,2.0,2.0,8,4,Gated+Guard,9.3,Karen
+125000,2.0,2.0,11,3,Gated+Guard+CCTV,4.1,Westlands Area
+129500,3.0,4.0,2,4,Gated+Guard,6.5,General Mathenge
+128500,3.0,3.0,2,3,Gated+Guard,6.3,Rhapta Road
+123000,3.0,3.0,3,3,Unknown,5.8,General Mathenge
+130500,3.0,3.0,6,3,Gated+Guard,4.1,Riverside
+131000,3.0,4.0,5,4,Gated+Guard+CCTV,9.0,Kilimani
+127500,3.0,4.0,13,3,Gated+Guard+CCTV,5.3,Parklands
+115500,2.0,2.0,9,2,Guard,9.1,Kilimani
+122000,3.0,4.0,6,1,Guard,4.0,Kileleshwa
+114000,3.0,3.0,6,1,Guard,10.3,Kilimani
+131500,3.0,3.0,5,3,Gated+Guard,3.9,Riverside
+128500,2.0,2.0,12,5,Gated+Guard+CCTV,9.0,Kilimani
+117000,2.0,2.0,14,2,Gated+Guard,8.0,Kilimani
+119000,3.0,4.0,14,3,Gated+Guard,8.5,Kilimani
+134000,2.0,3.0,6,3,Gated+Guard+CCTV,4.0,Kileleshwa
+122000,2.0,2.0,11,2,Gated+Guard,5.9,Westlands Area
+110000,4.0,5.0,16,1,Guard,7.2,Rhapta Road
+123000,3.0,4.0,8,1,Gated+Guard,5.0,Lavington
+127500,3.0,4.0,3,1,Gated+Guard+CCTV,7.3,Kilimani
+136500,3.0,4.0,1,4,Gated+Guard+CCTV,7.1,Rhapta Road
+124500,3.0,4.0,6,3,Gated+Guard,8.8,Kilimani
+125500,3.0,2.0,7,2,Gated+Guard,5.5,Westlands Area
+129000,3.0,4.0,5,2,Gated+Guard+CCTV,6.7,Lavington
+131500,3.0,4.0,5,3,Gated+Guard,3.7,Riverside
+116500,3.0,3.0,18,3,Guard,7.3,Westlands Area
+138000,4.0,4.0,11,4,Gated+Guard+CCTV,4.3,Riverside
+130500,3.0,3.0,11,1,Gated+Guard+CCTV,4.2,Kileleshwa
+131000,3.0,2.0,4,3,Guard,5.7,Kileleshwa
+137500,3.0,3.0,8,5,Gated+Guard,5.6,Westlands Area
+139000,3.0,3.0,4,5,Gated+Guard,6.5,Westlands Area
+128500,2.0,2.0,3,2,Guard,6.2,Other
+135000,2.0,2.0,3,1,Gated+Guard+CCTV,5.2,Kileleshwa
+130500,2.0,2.0,4,1,Gated+Guard,5.3,Kileleshwa
+132000,2.0,2.0,9,4,Gated+Guard+CCTV,10.0,Karen
+122500,3.0,2.0,9,1,Guard,5.5,Westlands Area
+135500,3.0,3.0,4,5,Gated+Guard,9.5,Kilimani
+118500,3.0,4.0,8,0,Unknown,4.1,Kileleshwa
+146000,3.0,3.0,6,6,Gated+Guard+CCTV,5.0,Riverside
+127000,2.0,2.0,4,0,Gated+Guard,6.1,Lavington
+129000,3.0,3.0,5,1,Gated+Guard,5.7,Brookside
+127000,3.0,3.0,4,3,Unknown,6.1,Westlands Area
+132000,3.0,3.0,6,4,Guard,5.9,General Mathenge
+129500,2.0,2.0,5,4,Unknown,5.3,Westlands Area
+116500,3.0,4.0,5,0,Guard,10.3,Kilimani
+126500,2.0,3.0,4,1,Gated+Guard,8.3,Kilimani
+134000,4.0,3.0,6,3,Gated+Guard,5.2,Westlands Area
+123500,3.0,4.0,11,1,Gated+Guard,6.4,Westlands Area
+141000,2.0,2.0,4,5,Gated+Guard,5.1,Kileleshwa
+127000,4.0,3.0,8,3,Guard,6.5,Westlands Area
+122500,2.0,2.0,7,1,Guard,6.7,Ngong Road
+130500,4.0,5.0,11,4,Guard,4.1,Kileleshwa
+135000,3.0,4.0,16,6,Gated+Guard+CCTV,7.5,Kilimani
+130500,3.0,3.0,11,4,Gated+Guard,7.1,Brookside
+131500,3.0,2.0,7,4,Guard,5.8,Westlands Area
+127500,4.0,4.0,11,3,Guard,4.4,Kileleshwa
+139500,2.0,2.0,5,3,Gated+Guard+CCTV,4.6,Riverside
+123500,2.0,2.0,7,2,Gated+Guard,10.7,Karen
+137000,3.0,3.0,1,2,Gated+Guard,4.2,Riverside
+134000,3.0,3.0,9,4,Gated+Guard,5.7,Kileleshwa
+119000,2.0,2.0,15,3,Guard,8.3,Kilimani
+142000,4.0,5.0,2,4,Gated+Guard+CCTV,6.7,Lavington
+132000,3.0,4.0,6,1,Gated+Guard+CCTV,6.0,Brookside
+131000,1.0,1.0,5,3,Guard,5.2,Parklands
+147000,3.0,4.0,2,5,Gated+Guard+CCTV,4.7,Riverside
+117500,3.0,3.0,22,2,Gated+Guard+CCTV,9.5,Kilimani
+136500,3.0,2.0,3,4,Guard,4.3,Riverside
+146000,3.0,3.0,2,6,Gated+Guard,4.5,Riverside
+129000,3.0,3.0,6,2,Guard,4.3,Kileleshwa
+128500,3.0,3.0,8,3,Guard,5.4,Westlands Area
+138000,3.0,3.0,1,3,Gated+Guard,5.2,Westlands Area
+125000,3.0,3.0,7,1,Guard,4.6,Westlands Area
+138500,3.0,3.0,6,3,Gated+Guard+CCTV,5.0,Riverside
+138500,3.0,3.0,2,2,Gated+Guard+CCTV,5.2,Lavington
+122500,3.0,3.0,3,1,Unknown,5.8,Lavington
+133000,3.0,4.0,6,2,Gated+Guard,3.9,Riverside
+135000,3.0,4.0,4,1,Gated+Guard+CCTV,4.7,Kileleshwa
+129000,3.0,4.0,12,1,Gated+Guard+CCTV,4.4,Riverside
+136500,4.0,4.0,9,4,Gated+Guard+CCTV,6.6,Westlands Area
+126000,1.0,2.0,13,3,Guard,4.2,Kileleshwa
+138000,3.0,4.0,3,3,Gated+Guard,3.9,Riverside
+130000,2.0,2.0,13,4,Gated+Guard,6.2,Other
+135500,4.0,4.0,5,2,Gated+Guard+CCTV,5.8,Westlands Area
+132500,4.0,4.0,4,3,Guard,4.8,Riverside
+150500,3.0,3.0,2,6,Gated+Guard+CCTV,4.2,Riverside
+131500,2.0,2.0,2,3,Guard,6.5,Lavington
+135000,2.0,2.0,8,2,Gated+Guard+CCTV,4.3,Riverside
+133000,3.0,4.0,5,3,Gated+Guard,6.8,Lavington
+135500,3.0,3.0,3,3,Gated+Guard,6.1,Rhapta Road
+132500,4.0,4.0,11,5,Gated+Guard,7.6,Kilimani
+130500,2.0,2.0,3,2,Guard,4.7,Kileleshwa
+125000,4.0,4.0,11,4,Guard,8.3,Kilimani
+127000,3.0,4.0,8,4,Guard,8.4,Kilimani
+126500,2.0,2.0,9,2,Guard,4.3,Riverside
+128500,3.0,4.0,9,3,Guard,4.6,Riverside
+140500,3.0,4.0,5,3,Gated+Guard+CCTV,4.0,Riverside
+140000,3.0,3.0,4,4,Gated+Guard,4.1,Riverside
+140000,3.0,4.0,4,6,Guard,4.8,Riverside
+134000,3.0,2.0,9,2,Gated+Guard+CCTV,4.6,Kileleshwa
+130000,4.0,5.0,7,5,Gated+Guard,11.8,Kilimani
+143000,4.0,3.0,3,4,Gated+Guard+CCTV,5.3,Parklands
+132000,2.0,2.0,5,4,Guard,6.5,Lavington
+126500,3.0,4.0,9,3,Gated+Guard,9.4,Kilimani
+126000,4.0,4.0,10,2,Gated+Guard,6.9,Rhapta Road
+132000,3.0,3.0,3,5,Unknown,6.5,Rhapta Road
+133500,3.0,3.0,4,6,Unknown,6.9,General Mathenge
+120000,2.0,3.0,15,3,Guard,7.7,Kilimani
+124500,4.0,5.0,9,2,Guard,5.8,Lavington
+134500,3.0,4.0,4,2,Gated+Guard,4.0,Kileleshwa
+127500,3.0,4.0,9,3,Gated+Guard,8.4,Kilimani
+139500,4.0,4.0,4,6,Guard,5.4,Parklands
+135000,3.0,3.0,12,5,Gated+Guard,4.8,Westlands Area
+141000,4.0,3.0,2,5,Gated+Guard,6.3,Lavington
+125500,3.0,4.0,12,3,Guard,5.1,Brookside
+129500,3.0,3.0,7,5,Unknown,6.3,Lavington
+127000,3.0,4.0,6,3,Unknown,4.6,Riverside
+132000,3.0,4.0,1,0,Gated+Guard,3.7,Riverside
+127500,3.0,4.0,5,2,Guard,5.9,Rhapta Road
+131500,1.0,2.0,5,2,Gated+Guard,6.0,Westlands Area
+140500,3.0,3.0,3,4,Gated+Guard,4.1,Kileleshwa
+132000,3.0,3.0,7,2,Gated+Guard,4.3,Riverside
+129000,3.0,4.0,13,4,Guard,3.9,Riverside
+140000,3.0,3.0,6,5,Gated+Guard,6.3,Westlands Area
+131000,3.0,4.0,13,3,Gated+Guard+CCTV,8.0,Kilimani
+148000,1.0,1.0,2,4,Gated+Guard+CCTV,4.7,Parklands
+138000,4.0,3.0,8,4,Gated+Guard+CCTV,9.8,Kilimani
+148500,3.0,3.0,2,4,Gated+Guard+CCTV,5.7,Lavington
+134500,4.0,3.0,11,5,Gated+Guard,9.7,Waiyaki Way
+138000,3.0,4.0,12,5,Gated+Guard,6.7,General Mathenge
+146000,3.0,4.0,7,4,Gated+Guard+CCTV,4.6,Kileleshwa
+123000,3.0,4.0,3,0,Guard,10.0,Kilimani
+152000,4.0,4.0,4,5,Gated+Guard+CCTV,4.1,Parklands
+141500,1.0,1.0,6,2,Gated+Guard+CCTV,4.7,Westlands Area
+146000,2.0,2.0,5,3,Gated+Guard+CCTV,3.7,Kileleshwa
+139500,3.0,4.0,10,6,Guard,5.8,Parklands
+143000,2.0,3.0,9,4,Gated+Guard+CCTV,5.6,Westlands Area
+140000,3.0,2.0,11,6,Gated+Guard,7.8,Lavington
+138500,4.0,3.0,8,6,Guard,7.5,Waiyaki Way
+140500,3.0,3.0,3,3,Gated+Guard,6.1,Brookside
+150500,2.0,2.0,4,6,Gated+Guard+CCTV,7.1,Westlands Area
+139000,2.0,2.0,7,4,Gated+Guard+CCTV,9.9,Westlands Area
+129500,4.0,4.0,8,3,Gated+Guard,11.2,Kilimani
+130500,3.0,3.0,7,2,Guard,6.9,Rhapta Road
+145500,3.0,2.0,7,3,Gated+Guard+CCTV,6.7,Westlands Area
+159000,1.0,1.0,2,5,Gated+Guard+CCTV,4.3,Riverside
+140500,4.0,4.0,8,2,Gated+Guard+CCTV,7.7,General Mathenge
+156000,3.0,3.0,3,5,Gated+Guard+CCTV,5.6,Rhapta Road
+149000,2.0,2.0,3,3,Gated+Guard,3.6,Riverside
+148000,3.0,4.0,9,4,Gated+Guard+CCTV,6.0,Lavington
+150500,4.0,5.0,1,4,Gated+Guard,5.9,Lavington
+154500,2.0,2.0,5,5,Gated+Guard+CCTV,5.7,Lavington
+146000,1.0,1.0,5,3,Gated+Guard+CCTV,7.6,Other
+145000,2.0,2.0,10,4,Gated+Guard,4.5,Riverside
+138500,2.0,2.0,10,4,Gated+Guard,9.1,Kilimani
+156500,3.0,5.0,3,5,Gated+Guard+CCTV,5.3,Kileleshwa
+143500,3.0,2.0,6,2,Gated+Guard,3.9,Kileleshwa
+150000,3.0,5.0,8,6,Gated+Guard,5.9,Lavington
+140500,3.0,3.0,12,2,Gated+Guard+CCTV,5.5,Lavington
+145000,3.0,4.0,6,4,Gated+Guard,7.0,Kilimani
+149000,4.0,5.0,10,4,Gated+Guard+CCTV,4.5,Kileleshwa
+134500,1.0,1.0,12,3,Guard,5.9,Brookside
+149000,3.0,3.0,11,5,Gated+Guard+CCTV,5.9,Parklands
+133500,4.0,3.0,12,4,Guard,8.6,Waiyaki Way
+128500,4.0,3.0,12,3,Unknown,7.0,Waiyaki Way
+141500,1.0,1.0,8,2,Gated+Guard+CCTV,7.3,Lavington
+142000,4.0,3.0,8,2,Gated+Guard+CCTV,6.9,Rhapta Road
+151000,2.0,2.0,6,6,Gated+Guard,6.4,Westlands Area
+153000,3.0,2.0,7,6,Gated+Guard,4.4,Kileleshwa
+144000,2.0,2.0,5,1,Gated+Guard+CCTV,5.3,Westlands Area
+145000,3.0,3.0,8,2,Gated+Guard+CCTV,4.8,Parklands
+146500,3.0,3.0,9,4,Gated+Guard+CCTV,6.8,Other
+141000,2.0,2.0,5,1,Gated+Guard+CCTV,7.4,Westlands Area
+138000,2.0,2.0,16,5,Gated+Guard+CCTV,10.7,Kilimani
+149000,1.0,1.0,6,4,Gated+Guard,3.8,Riverside
+132500,2.0,2.0,16,3,Gated+Guard,7.8,Kilimani
+159500,3.0,3.0,5,6,Gated+Guard+CCTV,4.1,Riverside
+144000,3.0,4.0,4,3,Guard,3.9,Parklands
+144500,3.0,3.0,11,5,Gated+Guard,6.2,Brookside
+147500,3.0,3.0,3,5,Guard,5.9,Westlands Area
+136000,3.0,3.0,10,3,Guard,5.7,Westlands Area
+150500,3.0,2.0,5,4,Gated+Guard,3.6,Kileleshwa
+151000,3.0,3.0,6,6,Gated+Guard,6.4,Brookside
+158000,3.0,3.0,4,6,Gated+Guard+CCTV,5.6,Westlands Area
+155500,3.0,3.0,6,6,Gated+Guard,3.4,Riverside
+145000,3.0,3.0,4,2,Gated+Guard,3.9,Lavington
+151000,3.0,5.0,1,5,Guard,4.5,Kileleshwa
+150000,2.0,2.0,4,3,Gated+Guard+CCTV,5.5,Kileleshwa
+154500,3.0,4.0,1,6,Gated+Guard,7.2,Lavington
+130500,2.0,2.0,22,3,Gated+Guard+CCTV,8.5,Kilimani
+141500,2.0,2.0,21,6,Gated+Guard+CCTV,7.4,Waiyaki Way
+145500,2.0,2.0,5,4,Guard,4.2,Riverside
+142500,3.0,2.0,14,6,Gated+Guard,7.9,Kilimani
+143500,2.0,2.0,7,5,Gated+Guard,9.3,Kilimani
+136500,3.0,2.0,13,2,Gated+Guard+CCTV,7.6,General Mathenge
+143500,2.0,2.0,9,2,Gated+Guard+CCTV,5.2,Kileleshwa
+141500,2.0,3.0,12,3,Gated+Guard+CCTV,6.9,General Mathenge
+152500,3.0,3.0,5,6,Gated+Guard,5.9,Westlands Area
+154500,3.0,3.0,9,6,Gated+Guard+CCTV,5.4,Brookside
+139000,3.0,4.0,6,4,Guard,8.1,Valley Arcade
+138000,4.0,3.0,14,4,Guard,3.9,Riverside
+159500,2.0,2.0,1,6,Gated+Guard+CCTV,6.3,Westlands Area
+143500,2.0,2.0,11,5,Gated+Guard+CCTV,10.0,Kilimani
+149000,4.0,4.0,7,6,Guard,4.5,Parklands
+136500,3.0,4.0,8,2,Guard,4.7,Riverside
+158000,4.0,5.0,2,6,Guard,4.8,Parklands
+133500,3.0,4.0,20,5,Guard,9.0,Kilimani
+125000,3.0,3.0,8,5,Gated+Guard,36.4,Thika Road
+162000,3.0,3.0,7,5,Gated+Guard+CCTV,3.2,Kileleshwa
+166500,3.0,5.0,3,6,Gated+Guard+CCTV,4.4,Riverside
+155500,4.0,4.0,4,3,Gated+Guard+CCTV,5.4,Parklands
+164000,3.0,3.0,6,6,Gated+Guard+CCTV,4.3,Kileleshwa
+162500,2.0,2.0,5,6,Gated+Guard+CCTV,6.0,Westlands Area
+157000,3.0,3.0,5,6,Gated+Guard+CCTV,9.6,Kilimani
+167500,3.0,3.0,3,6,Gated+Guard+CCTV,3.7,Kileleshwa
+154000,2.0,2.0,8,5,Gated+Guard,8.4,Kilimani
+145000,4.0,5.0,14,3,Gated+Guard+CCTV,9.9,Kilimani
+164000,4.0,4.0,11,6,Gated+Guard+CCTV,5.1,Lavington
+173500,2.0,2.0,2,6,Gated+Guard+CCTV,4.1,Riverside
+162500,2.0,2.0,5,3,Gated+Guard+CCTV,3.8,Kileleshwa
+157000,3.0,3.0,2,2,Gated+Guard,4.2,Riverside
+160000,3.0,3.0,2,3,Gated+Guard+CCTV,7.0,General Mathenge
+153000,4.0,4.0,7,4,Guard,4.8,Lavington
+155500,4.0,5.0,7,2,Gated+Guard+CCTV,5.1,Kileleshwa
+158500,4.0,4.0,3,3,Gated+Guard,4.6,Parklands
+161500,4.0,4.0,3,6,Guard,5.4,Westlands Area
+163000,4.0,5.0,1,4,Gated+Guard,4.6,Kileleshwa
+165000,4.0,5.0,10,6,Gated+Guard+CCTV,5.1,Kileleshwa
+138000,2.0,2.0,13,1,Guard,5.3,Lavington
+157500,2.0,2.0,5,4,Gated+Guard+CCTV,9.1,Kilimani
+160500,4.0,4.0,3,6,Guard,6.3,Lavington
+164500,4.0,4.0,10,6,Gated+Guard+CCTV,5.4,Parklands
+147500,4.0,3.0,11,1,Gated+Guard+CCTV,6.1,Westlands Area
+166000,3.0,4.0,5,6,Gated+Guard,4.3,Kileleshwa
+158000,4.0,5.0,2,3,Gated+Guard,5.4,Rhapta Road
+168500,3.0,4.0,1,5,Gated+Guard+CCTV,6.1,Other
+152000,2.0,2.0,11,3,Gated+Guard+CCTV,7.0,Waiyaki Way
+166500,4.0,4.0,5,4,Gated+Guard+CCTV,2.9,Kileleshwa
+161000,3.0,4.0,1,3,Gated+Guard,4.2,Riverside
+149000,2.0,2.0,11,5,Gated+Guard,10.0,Kilimani
+162000,3.0,3.0,1,2,Gated+Guard+CCTV,4.3,Rhapta Road
+145500,3.0,2.0,15,4,Gated+Guard,7.9,Kilimani
+156000,3.0,3.0,7,6,Gated+Guard,9.7,Kilimani
+164000,2.0,2.0,2,6,Gated+Guard,7.5,Westlands Area
+155000,2.0,2.0,11,5,Gated+Guard+CCTV,9.0,Kilimani
+164000,4.0,4.0,5,4,Gated+Guard+CCTV,4.6,Parklands
+142000,2.0,2.0,21,5,Gated+Guard,8.8,Kilimani
+149500,1.0,1.0,10,6,Guard,9.3,Waiyaki Way
+151500,2.0,2.0,6,6,Unknown,7.4,Waiyaki Way
+163500,3.0,4.0,8,6,Gated+Guard,4.1,Kileleshwa
+165000,4.0,3.0,4,6,Gated+Guard,5.7,Rhapta Road
+152000,2.0,3.0,18,6,Gated+Guard+CCTV,8.9,Karen
+147000,4.0,5.0,8,3,Gated+Guard,9.1,Kilimani
+126000,2.0,1.0,15,6,Gated+Guard,47.8,Thika Road
+172500,3.0,4.0,2,6,Gated+Guard+CCTV,4.7,Kileleshwa
+158000,3.0,4.0,5,4,Gated+Guard,5.8,Brookside
+152000,3.0,2.0,10,2,Gated+Guard+CCTV,5.8,Lavington
+157000,3.0,2.0,9,6,Guard,4.9,Lavington
+164500,4.0,4.0,3,6,Gated+Guard,6.6,Rhapta Road
+154000,3.0,3.0,3,0,Gated+Guard+CCTV,4.5,Kileleshwa
+152500,4.0,4.0,9,2,Gated+Guard+CCTV,5.9,Other
+128000,3.0,2.0,27,4,Gated+Guard,12.4,Kilimani
+155000,4.0,5.0,4,3,Gated+Guard+CCTV,9.3,Kilimani
+163000,4.0,5.0,5,4,Gated+Guard+CCTV,5.5,Lavington
+158000,3.0,4.0,4,3,Gated+Guard,4.3,Kileleshwa
+162500,3.0,4.0,10,6,Gated+Guard+CCTV,6.8,Rhapta Road
+170500,3.0,4.0,2,6,Gated+Guard+CCTV,6.1,Brookside
+161000,3.0,3.0,3,4,Gated+Guard,5.0,Westlands Area
+145000,3.0,3.0,14,3,Gated+Guard+CCTV,10.0,Kilimani
+158000,2.0,3.0,2,2,Gated+Guard+CCTV,6.4,General Mathenge
+158500,4.0,5.0,9,6,Gated+Guard+CCTV,9.8,Other
+162000,4.0,4.0,5,5,Gated+Guard,5.1,Kileleshwa
+136500,3.0,2.0,11,2,Gated+Guard,12.3,Kiambu Road
+166500,4.0,3.0,5,6,Gated+Guard+CCTV,6.9,Westlands Area
+162500,4.0,4.0,6,6,Gated+Guard,6.0,Westlands Area
+161500,1.0,1.0,3,5,Gated+Guard,6.6,Westlands Area
+150000,2.0,2.0,6,2,Gated+Guard,6.3,Other
+140000,2.0,2.0,9,2,Unknown,5.4,Other
+163000,2.0,2.0,8,5,Gated+Guard+CCTV,5.5,Brookside
+164000,2.0,2.0,3,6,Gated+Guard,6.7,Westlands Area
+161000,2.0,2.0,3,3,Gated+Guard+CCTV,5.8,Westlands Area
+154500,3.0,3.0,4,4,Guard,5.7,Brookside
+159500,3.0,3.0,8,5,Gated+Guard+CCTV,8.0,Other
+165500,2.0,2.0,5,6,Gated+Guard,4.7,Kileleshwa
+158500,2.0,2.0,13,6,Gated+Guard+CCTV,7.5,Westlands Area
+158000,3.0,3.0,3,3,Gated+Guard+CCTV,7.8,Kilimani
+156500,2.0,3.0,1,4,Guard,6.0,Westlands Area
+152000,4.0,4.0,8,2,Gated+Guard+CCTV,7.0,Brookside
+152000,3.0,4.0,8,3,Gated+Guard,5.9,Rhapta Road
+169500,4.0,4.0,3,6,Gated+Guard+CCTV,6.3,Westlands Area
+164500,3.0,3.0,7,5,Gated+Guard+CCTV,5.2,Lavington
+171000,4.0,4.0,3,6,Gated+Guard+CCTV,5.3,Parklands
+148500,3.0,3.0,10,1,Gated+Guard+CCTV,5.9,Westlands Area
+153500,3.0,3.0,11,4,Gated+Guard,5.0,Kileleshwa
+142000,2.0,2.0,7,3,Guard,10.3,Kilimani
+148000,3.0,2.0,6,4,Gated+Guard,11.8,Other
+166000,3.0,2.0,5,5,Gated+Guard+CCTV,5.3,Parklands
+163500,3.0,3.0,3,4,Gated+Guard+CCTV,6.2,Other
+136500,3.0,4.0,13,1,Gated+Guard,9.2,Kilimani
+153000,2.0,2.0,9,2,Gated+Guard+CCTV,5.7,Westlands Area
+161500,2.0,2.0,7,6,Gated+Guard,6.2,Westlands Area
+149500,3.0,2.0,16,6,Gated+Guard,8.7,Other
+151500,3.0,4.0,8,3,Gated+Guard+CCTV,9.2,Kilimani
+158000,3.0,2.0,3,4,Gated+Guard,6.9,Other
+160500,2.0,2.0,8,3,Gated+Guard+CCTV,3.1,Upper Hill
+157000,4.0,3.0,4,4,Gated+Guard,6.8,Lavington
+139000,1.0,1.0,13,1,Gated+Guard+CCTV,10.4,Kilimani
+145000,3.0,3.0,6,3,Guard,8.9,Kilimani
+170000,4.0,4.0,2,6,Gated+Guard,3.4,Kileleshwa
+148500,4.0,4.0,14,2,Gated+Guard+CCTV,5.6,Westlands Area
+168500,3.0,4.0,3,6,Gated+Guard+CCTV,6.9,Westlands Area
+143500,2.0,2.0,14,1,Gated+Guard,4.0,Riverside
+144000,4.0,4.0,13,2,Gated+Guard,6.2,General Mathenge
+165000,3.0,3.0,9,6,Gated+Guard+CCTV,5.6,Brookside
+157000,3.0,4.0,7,4,Gated+Guard,5.0,Kileleshwa
+154500,4.0,4.0,6,2,Gated+Guard+CCTV,6.4,Lavington
+161000,3.0,3.0,10,5,Gated+Guard+CCTV,5.8,Rhapta Road
+161500,2.0,2.0,4,6,Guard,4.8,Parklands
+156000,2.0,3.0,9,6,Gated+Guard,8.6,Kilimani
+158000,3.0,3.0,7,3,Gated+Guard+CCTV,5.3,Brookside
+156000,4.0,4.0,8,5,Gated+Guard,7.2,Lavington
+162500,3.0,3.0,5,4,Gated+Guard+CCTV,5.8,Rhapta Road
+158500,3.0,2.0,4,6,Guard,6.9,Lavington
+155000,3.0,3.0,11,4,Gated+Guard+CCTV,7.1,Lavington
+146500,2.0,2.0,17,6,Gated+Guard,10.1,Kilimani
+160500,3.0,3.0,3,2,Gated+Guard+CCTV,4.3,Kileleshwa
+148000,2.0,2.0,12,3,Gated+Guard,6.3,Westlands Area
+150500,4.0,4.0,13,3,Gated+Guard,7.0,General Mathenge
+169000,2.0,2.0,9,5,Gated+Guard+CCTV,4.5,Parklands
+157000,3.0,5.0,6,4,Guard,6.2,Brookside
+165000,4.0,4.0,9,6,Gated+Guard,6.0,Other
+168000,3.0,5.0,1,5,Gated+Guard,6.9,Brookside
+168500,3.0,5.0,9,6,Gated+Guard,3.8,Riverside
+171000,4.0,3.0,1,3,Gated+Guard+CCTV,6.1,Westlands Area
+157000,4.0,3.0,11,1,Gated+Guard+CCTV,6.2,Westlands Area
+143500,2.0,2.0,14,1,Guard,6.8,General Mathenge
+179500,1.0,1.0,4,6,Gated+Guard+CCTV,6.4,Other
+181500,4.0,4.0,3,6,Gated+Guard+CCTV,5.7,Lavington
+164500,4.0,4.0,14,6,Gated+Guard+CCTV,9.9,Kilimani
+178000,4.0,4.0,3,6,Gated+Guard,5.0,Lavington
+162500,4.0,3.0,17,6,Gated+Guard+CCTV,9.1,Kilimani
+165000,3.0,3.0,4,2,Gated+Guard+CCTV,7.4,Lavington
+177000,3.0,3.0,2,6,Gated+Guard,6.2,General Mathenge
+167500,3.0,2.0,13,6,Gated+Guard,5.5,Westlands Area
+165500,2.0,2.0,7,4,Gated+Guard,6.4,Westlands Area
+166500,3.0,3.0,16,6,Gated+Guard+CCTV,7.2,General Mathenge
+168500,3.0,2.0,4,4,Gated+Guard,6.3,Westlands Area
+170000,2.0,2.0,7,4,Gated+Guard+CCTV,6.4,Westlands Area
+163000,3.0,2.0,6,3,Gated+Guard,6.5,Other
+169500,2.0,2.0,7,4,Gated+Guard+CCTV,6.8,Westlands Area
+177000,3.0,3.0,7,6,Gated+Guard+CCTV,6.3,Brookside
+178500,3.0,3.0,6,6,Gated+Guard+CCTV,5.8,Westlands Area
+157000,3.0,4.0,9,1,Gated+Guard+CCTV,7.6,General Mathenge
+173000,1.0,2.0,6,5,Gated+Guard+CCTV,7.4,Rhapta Road
+157000,3.0,3.0,9,1,Gated+Guard,4.4,Kileleshwa
+177500,3.0,3.0,3,4,Gated+Guard+CCTV,4.4,Westlands Area
+152000,4.0,4.0,13,3,Gated+Guard,9.1,Other
+181500,3.0,3.0,3,6,Gated+Guard+CCTV,5.9,Lavington
+171500,3.0,3.0,7,6,Gated+Guard,6.7,Valley Arcade
+147000,2.0,1.0,14,0,Gated+Guard+CCTV,8.8,Other
+175000,3.0,3.0,3,3,Gated+Guard+CCTV,3.7,Riverside
+173500,2.0,2.0,2,4,Gated+Guard,4.5,Kileleshwa
+170500,4.0,4.0,2,4,Gated+Guard,6.2,Brookside
+174000,3.0,2.0,7,5,Gated+Guard+CCTV,6.1,Westlands Area
+165000,3.0,3.0,10,5,Guard,3.8,Upper Hill
+172500,3.0,5.0,1,6,Guard,6.6,General Mathenge
+150500,4.0,4.0,14,2,Gated+Guard,7.4,General Mathenge
+172500,2.0,3.0,4,4,Gated+Guard+CCTV,6.8,General Mathenge
+169500,3.0,3.0,9,6,Gated+Guard+CCTV,9.8,Kilimani
+162500,3.0,3.0,11,2,Gated+Guard+CCTV,4.8,Kileleshwa
+171000,2.0,2.0,7,5,Gated+Guard+CCTV,8.0,Kilimani
+177000,3.0,4.0,5,6,Gated+Guard,4.5,Riverside
+177500,3.0,2.0,1,4,Gated+Guard+CCTV,5.6,Lavington
+171500,2.0,3.0,2,6,Guard,6.6,Other
+152000,1.0,1.0,3,0,Guard,6.3,Westlands Area
+157500,2.0,3.0,2,2,Guard,7.3,Other
+161500,1.0,1.0,7,1,Gated+Guard+CCTV,5.8,Westlands Area
+163500,2.0,2.0,5,1,Gated+Guard+CCTV,5.7,Westlands Area
+176500,3.0,3.0,6,6,Gated+Guard,4.0,Riverside
+184000,2.0,3.0,3,6,Gated+Guard+CCTV,4.3,Kileleshwa
+163000,4.0,4.0,7,5,Gated+Guard,9.9,Kilimani
+157000,4.0,5.0,7,1,Gated+Guard,5.6,General Mathenge
+168000,2.0,2.0,13,6,Gated+Guard,5.2,Lavington
+175000,3.0,4.0,2,3,Gated+Guard+CCTV,4.4,Parklands
+168500,4.0,6.0,11,4,Gated+Guard+CCTV,5.0,Kileleshwa
+161000,3.0,4.0,11,6,Gated+Guard,10.8,Kilimani
+162500,3.0,3.0,11,4,Gated+Guard+CCTV,8.9,Kilimani
+159000,4.0,4.0,6,2,Gated+Guard,6.9,General Mathenge
+178500,3.0,3.0,2,5,Gated+Guard+CCTV,6.1,Rhapta Road
+181000,3.0,4.0,2,5,Gated+Guard+CCTV,4.6,Riverside
+160500,3.0,3.0,11,6,Guard,8.0,Kilimani
+169000,4.0,5.0,7,4,Gated+Guard+CCTV,7.2,Other
+159500,4.0,4.0,11,2,Gated+Guard+CCTV,6.7,Loresho
+164000,2.0,2.0,5,3,Gated+Guard,6.4,Westlands Area
+168000,2.0,2.0,3,2,Gated+Guard+CCTV,6.1,Westlands Area
+157500,3.0,3.0,8,2,Gated+Guard,6.7,Rhapta Road
+180500,3.0,4.0,4,6,Gated+Guard,2.7,Riverside
+160500,3.0,4.0,10,5,Gated+Guard,9.7,Kilimani
+154500,4.0,4.0,8,1,Gated+Guard,6.5,General Mathenge
+164000,2.0,2.0,15,6,Gated+Guard+CCTV,9.6,Kilimani
+157000,4.0,4.0,13,2,Gated+Guard+CCTV,7.0,Westlands Area
+172500,2.0,2.0,7,6,Gated+Guard,5.9,Westlands Area
+147500,1.0,2.0,20,5,Guard,8.9,Waiyaki Way
+151000,3.0,2.0,7,4,Unknown,9.5,Other
+173000,3.0,4.0,0,3,Gated+Guard+CCTV,6.9,Brookside
+176000,3.0,3.0,6,6,Gated+Guard+CCTV,10.8,Kilimani
+182500,3.0,3.0,3,5,Gated+Guard+CCTV,6.5,Rhapta Road
+154500,3.0,4.0,12,2,Gated+Guard,9.1,Kilimani
+185000,4.0,4.0,7,6,Gated+Guard+CCTV,4.8,Westlands Area
+175500,4.0,4.0,6,3,Gated+Guard+CCTV,4.9,Parklands
+163500,3.0,3.0,1,3,Unknown,6.3,General Mathenge
+161500,3.0,4.0,14,3,Gated+Guard+CCTV,8.8,General Mathenge
+179500,3.0,3.0,4,5,Gated+Guard,4.9,Parklands
+163000,3.0,4.0,12,5,Guard,7.1,General Mathenge
+161500,4.0,3.0,6,1,Gated+Guard,6.4,Westlands Area
+177500,4.0,3.0,4,5,Gated+Guard,6.0,Brookside
+179000,2.0,2.0,4,6,Gated+Guard,7.2,Other
+167000,3.0,3.0,4,3,Gated+Guard,8.3,Kilimani
+169000,2.0,2.0,9,4,Gated+Guard,6.1,Lavington
+154000,2.0,3.0,19,2,Gated+Guard+CCTV,8.2,Kilimani
+176500,3.0,3.0,7,2,Gated+Guard+CCTV,5.0,Lavington
+189000,3.0,3.0,2,5,Gated+Guard+CCTV,6.5,General Mathenge
+170500,3.0,4.0,8,4,Gated+Guard,9.0,Kilimani
+165000,3.0,3.0,14,4,Gated+Guard,8.5,Kilimani
+173000,2.0,2.0,15,6,Gated+Guard,7.3,Other
+180000,3.0,3.0,2,5,Guard,5.8,General Mathenge
+185500,3.0,3.0,0,2,Gated+Guard+CCTV,4.0,Riverside
+181000,3.0,4.0,8,3,Gated+Guard+CCTV,3.7,Kileleshwa
+192500,3.0,3.0,4,6,Gated+Guard+CCTV,5.5,Parklands
+187500,3.0,3.0,6,6,Gated+Guard+CCTV,7.1,General Mathenge
+186500,3.0,3.0,1,5,Gated+Guard,5.8,General Mathenge
+181000,3.0,3.0,6,5,Gated+Guard,5.8,Other
+174500,4.0,5.0,10,3,Gated+Guard+CCTV,6.4,General Mathenge
+167500,3.0,4.0,12,3,Gated+Guard,6.2,Brookside
+168500,2.0,2.0,11,5,Gated+Guard,10.4,Kilimani
+181500,3.0,3.0,6,4,Gated+Guard,3.5,Kileleshwa
+178000,3.0,3.0,2,3,Gated+Guard,6.1,Brookside
+170500,2.0,2.0,10,6,Guard,8.8,Kilimani
+174000,2.0,3.0,8,4,Gated+Guard+CCTV,9.7,Kilimani
+188000,3.0,4.0,7,6,Gated+Guard+CCTV,6.2,Brookside
+188000,2.0,2.0,5,6,Gated+Guard,4.5,Parklands
+181000,2.0,3.0,3,6,Guard,6.7,General Mathenge
+184500,1.0,1.0,4,5,Gated+Guard+CCTV,8.1,Kilimani
+176000,2.0,2.0,7,6,Gated+Guard,10.2,Kilimani
+178000,3.0,3.0,4,5,Gated+Guard,9.0,Kilimani
+158000,3.0,3.0,5,2,Guard,11.1,Kilimani
+158500,2.0,2.0,23,5,Gated+Guard,8.9,Kilimani
+193500,3.0,3.0,5,6,Gated+Guard+CCTV,4.1,Kileleshwa
+179500,5.0,6.0,10,5,Gated+Guard+CCTV,7.4,Kilimani
+185000,3.0,3.0,10,6,Gated+Guard,3.1,Riverside
+172500,4.0,3.0,14,4,Gated+Guard,4.0,Parklands
+168500,1.0,1.0,11,6,Guard,9.3,Kilimani
+175500,3.0,3.0,9,6,Guard,6.4,Westlands Area
+183000,3.0,4.0,4,3,Gated+Guard+CCTV,4.9,Brookside
+192500,4.0,4.0,4,6,Gated+Guard+CCTV,5.5,Parklands
+189500,3.0,4.0,5,6,Gated+Guard+CCTV,6.6,General Mathenge
+134500,3.0,2.0,18,3,Gated+Guard+CCTV,40.7,Thika Road
+187000,3.0,4.0,7,5,Gated+Guard+CCTV,4.8,Riverside
+168000,2.0,2.0,7,2,Gated+Guard+CCTV,10.0,Kilimani
+166500,3.0,4.0,4,4,Unknown,8.7,Kilimani
+177500,4.0,4.0,7,3,Gated+Guard,4.5,Parklands
+190000,3.0,3.0,2,3,Gated+Guard+CCTV,5.2,Parklands
+171500,3.0,3.0,6,1,Gated+Guard,6.4,General Mathenge
+191500,3.0,4.0,8,6,Gated+Guard+CCTV,6.8,General Mathenge
+182000,4.0,4.0,8,3,Gated+Guard+CCTV,6.2,Westlands Area
+191500,4.0,4.0,8,6,Gated+Guard+CCTV,6.9,General Mathenge
+169000,2.0,2.0,17,5,Gated+Guard,9.1,Kilimani
+193500,3.0,3.0,6,5,Gated+Guard+CCTV,4.9,Parklands
+176000,4.0,4.0,8,3,Gated+Guard,6.5,General Mathenge
+186500,4.0,5.0,12,6,Gated+Guard+CCTV,7.1,General Mathenge
+178000,3.0,3.0,5,3,Gated+Guard,7.4,General Mathenge
+204500,3.0,3.0,1,6,Gated+Guard+CCTV,3.5,Riverside
+179500,3.0,3.0,7,3,Gated+Guard+CCTV,8.2,General Mathenge
+171500,4.0,4.0,5,1,Gated+Guard,6.9,General Mathenge
+188500,4.0,4.0,7,6,Gated+Guard,6.0,Westlands Area
+190000,2.0,2.0,10,6,Gated+Guard+CCTV,6.5,Other
+183000,2.0,2.0,5,4,Gated+Guard,9.3,Kilimani
+200500,3.0,3.0,2,4,Gated+Guard+CCTV,4.5,Riverside
+164000,3.0,3.0,21,5,Guard,9.3,Other
+191500,2.0,2.0,4,4,Gated+Guard+CCTV,8.3,Kilimani
+205000,4.0,4.0,5,6,Gated+Guard+CCTV,4.2,Riverside
+183000,3.0,3.0,11,5,Gated+Guard,7.8,Kilimani
+163500,3.0,3.0,10,3,Unknown,9.1,Kilimani
+209500,4.0,4.0,2,6,Gated+Guard+CCTV,3.5,Upper Hill
+189000,1.0,2.0,2,6,Unknown,5.9,Westlands Area
+185000,2.0,2.0,2,5,Unknown,5.9,Westlands Area
+203000,3.0,3.0,6,6,Gated+Guard+CCTV,4.6,Other
+188500,3.0,4.0,6,4,Gated+Guard,5.6,Brookside
+186500,3.0,3.0,3,2,Gated+Guard,4.6,Kileleshwa
+183000,2.0,2.0,12,4,Gated+Guard+CCTV,8.2,Other
+176000,4.0,5.0,9,2,Guard,3.9,Kileleshwa
+195500,4.0,4.0,1,5,Gated+Guard,6.9,Westlands Area
+178000,2.0,2.0,10,5,Guard,8.1,Kilimani
