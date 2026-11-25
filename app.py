@@ -1,3 +1,5 @@
+import json
+
 import altair as alt
 import joblib
 import pandas as pd
@@ -28,6 +30,13 @@ def load_neighborhood_stats():
     return pd.read_csv("neighborhood_stats.csv")
 
 
+@st.cache_data
+def load_error_profile():
+    # Cross-validated error of the final model: {"mae": ..., "median_ape": ..., "p75_ape": ...}
+    with open("model_error.json") as f:
+        return json.load(f)
+
+
 # ---------- Options shown to the user ----------
 AMENITIES = [
     "Gym",
@@ -47,7 +56,23 @@ SECURITY_OPTIONS = {
 }
 
 OTHER_LABEL = "Other (area not listed)"
-TYPICAL_ERROR = 17000  # cross-validated MAE of the final model, rounded
+
+error_profile = load_error_profile()
+TYPICAL_ERROR = round(error_profile["mae"], -2)   # typical miss, in KSh
+FAIR_BAND = error_profile["median_ape"]           # half of estimates are within this % of the real rent
+CLEAR_BAND = error_profile["p75_ape"]             # three quarters are within this %
+
+
+def judge_price(asking, predicted):
+    """Return (verdict, strength, difference) comparing an asking rent with the estimate.
+
+    verdict: "good", "fair" or "high"; strength: "clearly" beyond the wider band, else "".
+    """
+    difference = (asking - predicted) / predicted
+    if abs(difference) <= FAIR_BAND:
+        return "fair", "", difference
+    strength = "clearly" if abs(difference) > CLEAR_BAND else ""
+    return ("good" if difference < 0 else "high"), strength, difference
 
 named_areas = sorted(n for n in distance_lookup if n != "Other")
 neighborhood_options = named_areas + (["Other"] if "Other" in distance_lookup else [])
@@ -121,24 +146,59 @@ if st.button("Estimate rent", type="primary"):
     )
     predicted = float(model.predict(row)[0])
 
+    low = predicted * (1 - FAIR_BAND)
+    high = predicted * (1 + FAIR_BAND)
+
     st.subheader(f"Estimated rent: KSh {predicted:,.0f} per month")
+    st.write(f"Likely range: KSh {low:,.0f} to KSh {high:,.0f}")
     st.caption(
-        f"In testing, estimates were typically off by about KSh {TYPICAL_ERROR:,}."
+        f"In testing, estimates were typically off by about KSh {TYPICAL_ERROR:,}. "
+        "The range is where about half of real rents fell in testing."
     )
 
     if asking_rent > 0 and predicted > 0:
-        difference = (asking_rent - predicted) / predicted
-        if difference > 0.10:
-            st.warning(
-                f"The asking rent is {difference:.0%} above the estimate for similar apartments."
-            )
-        elif difference < -0.10:
+        verdict, strength, difference = judge_price(asking_rent, predicted)
+        size = f"{abs(difference):.0%}"
+
+        if verdict == "fair":
+            st.info(f"Fair price. The asking rent is within the likely range ({difference:+.0%} from the estimate).")
+        elif verdict == "good":
+            title = "Clearly a good deal" if strength else "Good deal"
             st.success(
-                f"The asking rent is {abs(difference):.0%} below the estimate for similar apartments. "
-                "This could be a good deal."
+                f"{title}. The asking rent is {size} below the estimate. "
+                "Check why it is lower: the model cannot see the condition of the building "
+                "or features outside the form."
             )
         else:
-            st.info("The asking rent is close to the estimate for similar apartments.")
+            title = "Clearly overpriced" if strength else "Overpriced"
+            st.warning(
+                f"{title}. The asking rent is {size} above the estimate. "
+                "It may be worth negotiating, or asking what extra the landlord is offering."
+            )
+
+        # Where the asking rent sits compared with the estimate and its likely range
+        axis_min = min(low, asking_rent) * 0.85
+        axis_max = max(high, asking_rent) * 1.15
+        scale = alt.Scale(domain=[axis_min, axis_max])
+        x_axis = alt.Axis(format=",.0f", title="Monthly rent (KSh)")
+
+        band = (
+            alt.Chart(pd.DataFrame({"low": [low], "high": [high]}))
+            .mark_rect(opacity=0.3, color="steelblue")
+            .encode(x=alt.X("low:Q", scale=scale, axis=x_axis), x2="high:Q")
+        )
+        estimate_line = (
+            alt.Chart(pd.DataFrame({"rent": [predicted]}))
+            .mark_rule(color="steelblue", strokeWidth=3)
+            .encode(x=alt.X("rent:Q", scale=scale))
+        )
+        asking_line = (
+            alt.Chart(pd.DataFrame({"rent": [float(asking_rent)]}))
+            .mark_rule(color="crimson", strokeWidth=3)
+            .encode(x=alt.X("rent:Q", scale=scale))
+        )
+        st.altair_chart((band + estimate_line + asking_line).properties(height=90))
+        st.caption("Blue line: estimate. Shaded band: likely range. Red line: the asking rent.")
 
 # ---------- Compare neighborhoods ----------
 LOW_DATA_THRESHOLD = 20  # areas with fewer listings than this get a caution note
