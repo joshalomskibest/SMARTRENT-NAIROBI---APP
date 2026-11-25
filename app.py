@@ -5,6 +5,7 @@ import joblib
 import pandas as pd
 import streamlit as st
 
+from about import render_about
 from market import render_market_report
 
 st.set_page_config(page_title="SmartRent Nairobi", layout="centered")
@@ -123,10 +124,13 @@ HERO_HTML = (
 )
 st.markdown(HERO_HTML, unsafe_allow_html=True)
 
-tab_estimate, tab_market = st.tabs(["Estimate rent", "Market report"])
+tab_estimate, tab_market, tab_about = st.tabs(["Estimate rent", "Market report", "About"])
 
 with tab_market:
     render_market_report()
+
+with tab_about:
+    render_about()
 
 with tab_estimate:
     st.write("Estimate the monthly rent of an apartment in Nairobi and its surroundings.")
